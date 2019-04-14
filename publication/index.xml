@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on &lt;cea /&gt;</title>
+    <link>https://ceandrade.github.io/publication/</link>
+    <description>Recent content in Publications on &lt;cea /&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
+examined the content. The author of the page is solely responsable for the
+content.
+</copyright>
+    <lastBuildDate>Mon, 04 Feb 2019 22:42:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://ceandrade.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minimizing flowtime in a flowshop scheduling problem with a biased random-key genetic algorithm</title>
+      <link>https://ceandrade.github.io/publication/andrade-2019-pfsp-brkga-shaking/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2019-pfsp-brkga-shaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics for a flowshop scheduling problem with stepwise job objective function</title>
+      <link>https://ceandrade.github.io/publication/pessoa-2018-heuristics-flowshop-stepwise/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/pessoa-2018-heuristics-flowshop-stepwise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid primal heuristic for finding feasible solutions to mixed integer programs</title>
+      <link>https://ceandrade.github.io/publication/andrade-2017-hybrid-heuristic-feasibility/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2017-hybrid-heuristic-feasibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connected cars in a cellular network: A measurement study</title>
+      <link>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing massive firmware-over-the-air updates for connected cars in cellular networks</title>
+      <link>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Software Updates for Connected Cars with Limited Availability</title>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics for a Hub Location-Routing Problem</title>
+      <link>https://ceandrade.github.io/publication/lopes-2016-heuristics-hub-location/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/lopes-2016-heuristics-hub-location/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics for the Wireless Backhaul Network Design Problem</title>
+      <link>https://ceandrade.github.io/publication/andrade-2016-heuristics-for-wireless-backhaul/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2016-heuristics-for-wireless-backhaul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Scale Scheduling Problems on Internet of Things</title>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-io-t/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-io-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Learning Framework for Feasibility Pump</title>
+      <link>https://ceandrade.github.io/publication/andrade-2015-learning-feasibility-pump/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2015-learning-feasibility-pump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A biased random-key genetic algorithm for wireless backhaul network design</title>
+      <link>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased random-key genetic algorithms for the winner determination problem in combinatorial auctions</title>
+      <link>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Algorithms for some Problems in Telecommunications</title>
+      <link>https://ceandrade.github.io/publication/andrade-2015-evolutionary-algs-telecomm/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2015-evolutionary-algs-telecomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving a Variant of the Hub Location-Routing Problem</title>
+      <link>https://ceandrade.github.io/publication/lopes-2015-solving-hub-location-routing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/lopes-2015-solving-hub-location-routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A biased random-key genetic algorithm for a prize-collecting directed Steiner forest network design problem</title>
+      <link>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary algorithms for overlapping correlation clustering</title>
+      <link>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving a variant of the (hub) location-routing problem</title>
+      <link>https://ceandrade.github.io/publication/lopes-2014-solving-hub-location-routing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/lopes-2014-solving-hub-location-routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some extensions of biased random-key genetic algorithms</title>
+      <link>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary algorithm for the $k$-interconnected multi-depot multi-traveling salesmen problem</title>
+      <link>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary algorithms for overlapping correlation clustering</title>
+      <link>https://ceandrade.github.io/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the winner determination problem by biased random-key genetic algorithms</title>
+      <link>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leilões e Algoritmos</title>
+      <link>https://ceandrade.github.io/publication/andrade-2011-leiloes-algos/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2011-leiloes-algos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Um algoritmo exato para o Problema de Empacotamento Bidimensional em Faixas</title>
+      <link>https://ceandrade.github.io/publication/andrade-2006-branch-and-price/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2006-branch-and-price/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Um algoritmo exato para o Problema de Empacotamento Bidimensional em Faixas</title>
+      <link>https://ceandrade.github.io/publication/andrade-2006-masterthesis/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2006-masterthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

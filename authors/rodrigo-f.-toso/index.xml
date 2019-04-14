@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo F. Toso on &lt;cea /&gt;</title>
+    <link>https://ceandrade.github.io/authors/rodrigo-f.-toso/</link>
+    <description>Recent content in Rodrigo F. Toso on &lt;cea /&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
+examined the content. The author of the page is solely responsable for the
+content.
+</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ceandrade.github.io/authors/rodrigo-f.-toso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biased random-key genetic algorithms for the winner determination problem in combinatorial auctions</title>
+      <link>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the winner determination problem by biased random-key genetic algorithms</title>
+      <link>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
