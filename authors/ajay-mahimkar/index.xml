@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ajay Mahimkar on &lt;cea /&gt;</title>
-    <link>https://ceandrade.github.io/authors/ajay-mahimkar/</link>
+    <link>http://localhost:1313/authors/ajay-mahimkar/</link>
     <description>Recent content in Ajay Mahimkar on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,15 +12,15 @@ content.
 </copyright>
     <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://ceandrade.github.io/authors/ajay-mahimkar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/ajay-mahimkar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A scalable approach to conflict-free change deployment in 5G/LTE/cloud networks</title>
-      <link>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</link>
+      <link>http://localhost:1313/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</guid>
+      <guid>http://localhost:1313/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</guid>
       <description></description>
     </item>
     

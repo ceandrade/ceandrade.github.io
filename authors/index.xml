@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on &lt;cea /&gt;</title>
-    <link>https://ceandrade.github.io/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,348 +12,348 @@ content.
 </copyright>
     <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://ceandrade.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ajay Mahimkar</title>
-      <link>https://ceandrade.github.io/authors/ajay-mahimkar/</link>
+      <link>http://localhost:1313/authors/ajay-mahimkar/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/ajay-mahimkar/</guid>
+      <guid>http://localhost:1313/authors/ajay-mahimkar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carlos E. Andrade</title>
-      <link>https://ceandrade.github.io/authors/carlos-e.-andrade/</link>
+      <link>http://localhost:1313/authors/carlos-e.-andrade/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/carlos-e.-andrade/</guid>
+      <guid>http://localhost:1313/authors/carlos-e.-andrade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carlos E. de Andrade</title>
-      <link>https://ceandrade.github.io/authors/carlos-e.-de-andrade/</link>
+      <link>http://localhost:1313/authors/carlos-e.-de-andrade/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/carlos-e.-de-andrade/</guid>
+      <guid>http://localhost:1313/authors/carlos-e.-de-andrade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carlos Eduardo de Andrade</title>
-      <link>https://ceandrade.github.io/authors/carlos-eduardo-de-andrade/</link>
+      <link>http://localhost:1313/authors/carlos-eduardo-de-andrade/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/carlos-eduardo-de-andrade/</guid>
+      <guid>http://localhost:1313/authors/carlos-eduardo-de-andrade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christopher T. Volinsky</title>
-      <link>https://ceandrade.github.io/authors/christopher-t.-volinsky/</link>
+      <link>http://localhost:1313/authors/christopher-t.-volinsky/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/christopher-t.-volinsky/</guid>
+      <guid>http://localhost:1313/authors/christopher-t.-volinsky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David J. Poole</title>
-      <link>https://ceandrade.github.io/authors/david-j.-poole/</link>
+      <link>http://localhost:1313/authors/david-j.-poole/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/david-j.-poole/</guid>
+      <guid>http://localhost:1313/authors/david-j.-poole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eduardo C. Xavier</title>
-      <link>https://ceandrade.github.io/authors/eduardo-c.-xavier/</link>
+      <link>http://localhost:1313/authors/eduardo-c.-xavier/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/eduardo-c.-xavier/</guid>
+      <guid>http://localhost:1313/authors/eduardo-c.-xavier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emir Halepovic</title>
-      <link>https://ceandrade.github.io/authors/emir-halepovic/</link>
+      <link>http://localhost:1313/authors/emir-halepovic/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/emir-halepovic/</guid>
+      <guid>http://localhost:1313/authors/emir-halepovic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flávio K. Miyazawa</title>
-      <link>https://ceandrade.github.io/authors/fl%C3%A1vio-k.-miyazawa/</link>
+      <link>http://localhost:1313/authors/fl%C3%A1vio-k.-miyazawa/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/fl%C3%A1vio-k.-miyazawa/</guid>
+      <guid>http://localhost:1313/authors/fl%C3%A1vio-k.-miyazawa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>George L. Nemhauser</title>
-      <link>https://ceandrade.github.io/authors/george-l.-nemhauser/</link>
+      <link>http://localhost:1313/authors/george-l.-nemhauser/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/george-l.-nemhauser/</guid>
+      <guid>http://localhost:1313/authors/george-l.-nemhauser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Howard J. Karloff</title>
-      <link>https://ceandrade.github.io/authors/howard-j.-karloff/</link>
+      <link>http://localhost:1313/authors/howard-j.-karloff/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/howard-j.-karloff/</guid>
+      <guid>http://localhost:1313/authors/howard-j.-karloff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kenneth C. Reichmann</title>
-      <link>https://ceandrade.github.io/authors/kenneth-c.-reichmann/</link>
+      <link>http://localhost:1313/authors/kenneth-c.-reichmann/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/kenneth-c.-reichmann/</guid>
+      <guid>http://localhost:1313/authors/kenneth-c.-reichmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lien K. Tran</title>
-      <link>https://ceandrade.github.io/authors/lien-k.-tran/</link>
+      <link>http://localhost:1313/authors/lien-k.-tran/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/lien-k.-tran/</guid>
+      <guid>http://localhost:1313/authors/lien-k.-tran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luciana S. Pessoa</title>
-      <link>https://ceandrade.github.io/authors/luciana-s.-pessoa/</link>
+      <link>http://localhost:1313/authors/luciana-s.-pessoa/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/luciana-s.-pessoa/</guid>
+      <guid>http://localhost:1313/authors/luciana-s.-pessoa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marina L. Lucena</title>
-      <link>https://ceandrade.github.io/authors/marina-l.-lucena/</link>
+      <link>http://localhost:1313/authors/marina-l.-lucena/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/marina-l.-lucena/</guid>
+      <guid>http://localhost:1313/authors/marina-l.-lucena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mauricio C. G. Resende</title>
-      <link>https://ceandrade.github.io/authors/mauricio-c.-g.-resende/</link>
+      <link>http://localhost:1313/authors/mauricio-c.-g.-resende/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/mauricio-c.-g.-resende/</guid>
+      <guid>http://localhost:1313/authors/mauricio-c.-g.-resende/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mauricio G. C. Resende</title>
-      <link>https://ceandrade.github.io/authors/mauricio-g.-c.-resende/</link>
+      <link>http://localhost:1313/authors/mauricio-g.-c.-resende/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/mauricio-g.-c.-resende/</guid>
+      <guid>http://localhost:1313/authors/mauricio-g.-c.-resende/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mauro C. Lopes</title>
-      <link>https://ceandrade.github.io/authors/mauro-c.-lopes/</link>
+      <link>http://localhost:1313/authors/mauro-c.-lopes/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/mauro-c.-lopes/</guid>
+      <guid>http://localhost:1313/authors/mauro-c.-lopes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Milap Majmundar</title>
-      <link>https://ceandrade.github.io/authors/milap-majmundar/</link>
+      <link>http://localhost:1313/authors/milap-majmundar/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/milap-majmundar/</guid>
+      <guid>http://localhost:1313/authors/milap-majmundar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nemmara K. Shankaranarayanan</title>
-      <link>https://ceandrade.github.io/authors/nemmara-k.-shankaranarayanan/</link>
+      <link>http://localhost:1313/authors/nemmara-k.-shankaranarayanan/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/nemmara-k.-shankaranarayanan/</guid>
+      <guid>http://localhost:1313/authors/nemmara-k.-shankaranarayanan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rakesh K. Sinha</title>
-      <link>https://ceandrade.github.io/authors/rakesh-k.-sinha/</link>
+      <link>http://localhost:1313/authors/rakesh-k.-sinha/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/rakesh-k.-sinha/</guid>
+      <guid>http://localhost:1313/authors/rakesh-k.-sinha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert D. Doverspike</title>
-      <link>https://ceandrade.github.io/authors/robert-d.-doverspike/</link>
+      <link>http://localhost:1313/authors/robert-d.-doverspike/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/robert-d.-doverspike/</guid>
+      <guid>http://localhost:1313/authors/robert-d.-doverspike/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Riding</title>
-      <link>https://ceandrade.github.io/authors/robert-riding/</link>
+      <link>http://localhost:1313/authors/robert-riding/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/robert-riding/</guid>
+      <guid>http://localhost:1313/authors/robert-riding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rodrigo F. Toso</title>
-      <link>https://ceandrade.github.io/authors/rodrigo-f.-toso/</link>
+      <link>http://localhost:1313/authors/rodrigo-f.-toso/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/rodrigo-f.-toso/</guid>
+      <guid>http://localhost:1313/authors/rodrigo-f.-toso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarat Puthenpura</title>
-      <link>https://ceandrade.github.io/authors/sarat-puthenpura/</link>
+      <link>http://localhost:1313/authors/sarat-puthenpura/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/sarat-puthenpura/</guid>
+      <guid>http://localhost:1313/authors/sarat-puthenpura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shabbir Ahmed</title>
-      <link>https://ceandrade.github.io/authors/shabbir-ahmed/</link>
+      <link>http://localhost:1313/authors/shabbir-ahmed/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/shabbir-ahmed/</guid>
+      <guid>http://localhost:1313/authors/shabbir-ahmed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simon D. Byers</title>
-      <link>https://ceandrade.github.io/authors/simon-d.-byers/</link>
+      <link>http://localhost:1313/authors/simon-d.-byers/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/simon-d.-byers/</guid>
+      <guid>http://localhost:1313/authors/simon-d.-byers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slawomir Stawiarski</title>
-      <link>https://ceandrade.github.io/authors/slawomir-stawiarski/</link>
+      <link>http://localhost:1313/authors/slawomir-stawiarski/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/slawomir-stawiarski/</guid>
+      <guid>http://localhost:1313/authors/slawomir-stawiarski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thiago A. Queiroz</title>
-      <link>https://ceandrade.github.io/authors/thiago-a.-queiroz/</link>
+      <link>http://localhost:1313/authors/thiago-a.-queiroz/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/thiago-a.-queiroz/</guid>
+      <guid>http://localhost:1313/authors/thiago-a.-queiroz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thuener Silva</title>
-      <link>https://ceandrade.github.io/authors/thuener-silva/</link>
+      <link>http://localhost:1313/authors/thuener-silva/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/thuener-silva/</guid>
+      <guid>http://localhost:1313/authors/thuener-silva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vijay Gopalakrishnan</title>
-      <link>https://ceandrade.github.io/authors/vijay-gopalakrishnan/</link>
+      <link>http://localhost:1313/authors/vijay-gopalakrishnan/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/vijay-gopalakrishnan/</guid>
+      <guid>http://localhost:1313/authors/vijay-gopalakrishnan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wei Yuan</title>
-      <link>https://ceandrade.github.io/authors/wei-yuan/</link>
+      <link>http://localhost:1313/authors/wei-yuan/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/wei-yuan/</guid>
+      <guid>http://localhost:1313/authors/wei-yuan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weiyi Zhang</title>
-      <link>https://ceandrade.github.io/authors/weiyi-zhang/</link>
+      <link>http://localhost:1313/authors/weiyi-zhang/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/weiyi-zhang/</guid>
+      <guid>http://localhost:1313/authors/weiyi-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wenjie Zhao</title>
-      <link>https://ceandrade.github.io/authors/wenjie-zhao/</link>
+      <link>http://localhost:1313/authors/wenjie-zhao/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/wenjie-zhao/</guid>
+      <guid>http://localhost:1313/authors/wenjie-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yufen Shao</title>
-      <link>https://ceandrade.github.io/authors/yufen-shao/</link>
+      <link>http://localhost:1313/authors/yufen-shao/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/yufen-shao/</guid>
+      <guid>http://localhost:1313/authors/yufen-shao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yufen Shao.</title>
-      <link>https://ceandrade.github.io/authors/yufen-shao./</link>
+      <link>http://localhost:1313/authors/yufen-shao./</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/yufen-shao./</guid>
+      <guid>http://localhost:1313/authors/yufen-shao./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuning Yang</title>
-      <link>https://ceandrade.github.io/authors/yuning-yang/</link>
+      <link>http://localhost:1313/authors/yuning-yang/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/yuning-yang/</guid>
+      <guid>http://localhost:1313/authors/yuning-yang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>admin</title>
-      <link>https://ceandrade.github.io/authors/admin/</link>
+      <link>http://localhost:1313/authors/admin/</link>
       <pubDate>Sun, 14 Apr 2019 18:23:47 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/authors/admin/</guid>
+      <guid>http://localhost:1313/authors/admin/</guid>
       <description></description>
     </item>
     

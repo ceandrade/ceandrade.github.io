@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on &lt;cea /&gt;</title>
-    <link>https://ceandrade.github.io/publication_types/7/</link>
+    <link>http://localhost:1313/publication_types/7/</link>
     <description>Recent content in 7 on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,24 +12,24 @@ content.
 </copyright>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://ceandrade.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evolutionary Algorithms for some Problems in Telecommunications</title>
-      <link>https://ceandrade.github.io/publication/andrade-2015-evolutionary-algs-telecomm/</link>
+      <link>http://localhost:1313/publication/andrade-2015-evolutionary-algs-telecomm/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/andrade-2015-evolutionary-algs-telecomm/</guid>
+      <guid>http://localhost:1313/publication/andrade-2015-evolutionary-algs-telecomm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Um algoritmo exato para o Problema de Empacotamento Bidimensional em Faixas</title>
-      <link>https://ceandrade.github.io/publication/andrade-2006-masterthesis/</link>
+      <link>http://localhost:1313/publication/andrade-2006-masterthesis/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/andrade-2006-masterthesis/</guid>
+      <guid>http://localhost:1313/publication/andrade-2006-masterthesis/</guid>
       <description></description>
     </item>
     

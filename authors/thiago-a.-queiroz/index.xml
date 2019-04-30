@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thiago A. Queiroz on &lt;cea /&gt;</title>
-    <link>https://ceandrade.github.io/authors/thiago-a.-queiroz/</link>
+    <link>http://localhost:1313/authors/thiago-a.-queiroz/</link>
     <description>Recent content in Thiago A. Queiroz on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,33 +12,33 @@ content.
 </copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://ceandrade.github.io/authors/thiago-a.-queiroz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/thiago-a.-queiroz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Heuristics for a Hub Location-Routing Problem</title>
-      <link>https://ceandrade.github.io/publication/lopes-2016-heuristics-hub-location/</link>
+      <link>http://localhost:1313/publication/lopes-2016-heuristics-hub-location/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/lopes-2016-heuristics-hub-location/</guid>
+      <guid>http://localhost:1313/publication/lopes-2016-heuristics-hub-location/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving a Variant of the Hub Location-Routing Problem</title>
-      <link>https://ceandrade.github.io/publication/lopes-2015-solving-hub-location-routing/</link>
+      <link>http://localhost:1313/publication/lopes-2015-solving-hub-location-routing/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/lopes-2015-solving-hub-location-routing/</guid>
+      <guid>http://localhost:1313/publication/lopes-2015-solving-hub-location-routing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving a variant of the (hub) location-routing problem</title>
-      <link>https://ceandrade.github.io/publication/lopes-2014-solving-hub-location-routing/</link>
+      <link>http://localhost:1313/publication/lopes-2014-solving-hub-location-routing/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/lopes-2014-solving-hub-location-routing/</guid>
+      <guid>http://localhost:1313/publication/lopes-2014-solving-hub-location-routing/</guid>
       <description></description>
     </item>
     

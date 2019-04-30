@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luciana S. Pessoa on &lt;cea /&gt;</title>
-    <link>https://ceandrade.github.io/authors/luciana-s.-pessoa/</link>
+    <link>http://localhost:1313/authors/luciana-s.-pessoa/</link>
     <description>Recent content in Luciana S. Pessoa on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,24 +12,24 @@ content.
 </copyright>
     <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://ceandrade.github.io/authors/luciana-s.-pessoa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/luciana-s.-pessoa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Minimizing flowtime in a flowshop scheduling problem with a biased random-key genetic algorithm</title>
-      <link>https://ceandrade.github.io/publication/andrade-2019-pfsp-brkga-shaking/</link>
+      <link>http://localhost:1313/publication/andrade-2019-pfsp-brkga-shaking/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/andrade-2019-pfsp-brkga-shaking/</guid>
+      <guid>http://localhost:1313/publication/andrade-2019-pfsp-brkga-shaking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heuristics for a flowshop scheduling problem with stepwise job objective function</title>
-      <link>https://ceandrade.github.io/publication/pessoa-2018-heuristics-flowshop-stepwise/</link>
+      <link>http://localhost:1313/publication/pessoa-2018-heuristics-flowshop-stepwise/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/pessoa-2018-heuristics-flowshop-stepwise/</guid>
+      <guid>http://localhost:1313/publication/pessoa-2018-heuristics-flowshop-stepwise/</guid>
       <description></description>
     </item>
     
