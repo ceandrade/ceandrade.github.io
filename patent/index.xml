@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patents on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/patent/</link>
+    <link>https://ceandrade.github.io/patent/</link>
     <description>Recent content in Patents on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,51 +12,51 @@ content.
 </copyright>
     <lastBuildDate>Thu, 11 Apr 2019 12:06:35 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/patent/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/patent/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Model-driven Automated Cell PCI/RSI Allocation Optimization in 5G Wireless Network</title>
-      <link>http://localhost:1313/patent/andrade2019-model-driven-automated-cell-pci-rsi-allocation-optimization-in-5g-wireless-network/</link>
+      <link>https://ceandrade.github.io/patent/andrade2019-model-driven-automated-cell-pci-rsi-allocation-optimization-in-5g-wireless-network/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/patent/andrade2019-model-driven-automated-cell-pci-rsi-allocation-optimization-in-5g-wireless-network/</guid>
+      <guid>https://ceandrade.github.io/patent/andrade2019-model-driven-automated-cell-pci-rsi-allocation-optimization-in-5g-wireless-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A scalable approach to conflict-free change deployment in 5G/LTE/cloud networks</title>
-      <link>http://localhost:1313/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</link>
+      <link>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</guid>
+      <guid>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Driven Implementation of Services on a Software-Defined Network</title>
-      <link>http://localhost:1313/patent/andrade2017-model-driven-implementation-of-services-on-a-software-defined-network/</link>
+      <link>https://ceandrade.github.io/patent/andrade2017-model-driven-implementation-of-services-on-a-software-defined-network/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/patent/andrade2017-model-driven-implementation-of-services-on-a-software-defined-network/</guid>
+      <guid>https://ceandrade.github.io/patent/andrade2017-model-driven-implementation-of-services-on-a-software-defined-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facilitating Software Downloads To Internet Of Things Devices Via A Constrained Network</title>
-      <link>http://localhost:1313/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</link>
+      <link>https://ceandrade.github.io/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</guid>
+      <guid>https://ceandrade.github.io/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facilitation of Efficient Software Downloads for Vehicles</title>
-      <link>http://localhost:1313/patent/byers2016-facilitation-of-efficient-software-downloads-for-vehicles/</link>
+      <link>https://ceandrade.github.io/patent/byers2016-facilitation-of-efficient-software-downloads-for-vehicles/</link>
       <pubDate>Thu, 28 Dec 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/patent/byers2016-facilitation-of-efficient-software-downloads-for-vehicles/</guid>
+      <guid>https://ceandrade.github.io/patent/byers2016-facilitation-of-efficient-software-downloads-for-vehicles/</guid>
       <description></description>
     </item>
     

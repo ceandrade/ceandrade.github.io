@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/author/</link>
+    <link>https://ceandrade.github.io/author/</link>
     <description>Recent content in Authors on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,7 +11,7 @@ examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
     
-	<atom:link href="http://localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rakesh K. Sinha on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/authors/rakesh-k.-sinha/</link>
+    <link>https://ceandrade.github.io/authors/rakesh-k.-sinha/</link>
     <description>Recent content in Rakesh K. Sinha on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,42 +12,42 @@ content.
 </copyright>
     <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/rakesh-k.-sinha/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/authors/rakesh-k.-sinha/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A scalable approach to conflict-free change deployment in 5G/LTE/cloud networks</title>
-      <link>http://localhost:1313/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</link>
+      <link>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</guid>
+      <guid>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Driven Implementation of Services on a Software-Defined Network</title>
-      <link>http://localhost:1313/patent/andrade2017-model-driven-implementation-of-services-on-a-software-defined-network/</link>
+      <link>https://ceandrade.github.io/patent/andrade2017-model-driven-implementation-of-services-on-a-software-defined-network/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/patent/andrade2017-model-driven-implementation-of-services-on-a-software-defined-network/</guid>
+      <guid>https://ceandrade.github.io/patent/andrade2017-model-driven-implementation-of-services-on-a-software-defined-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A biased random-key genetic algorithm for wireless backhaul network design</title>
-      <link>http://localhost:1313/publication/andrade-2015-brkga-wireless-backhaul-design/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2015-brkga-wireless-backhaul-design/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A biased random-key genetic algorithm for a prize-collecting directed Steiner forest network design problem</title>
-      <link>http://localhost:1313/publication/resende-2015-brkga-prize-collecting-steiner/</link>
+      <link>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/resende-2015-brkga-prize-collecting-steiner/</guid>
+      <guid>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</guid>
       <description></description>
     </item>
     

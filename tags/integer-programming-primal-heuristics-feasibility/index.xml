@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Integer programming; Primal heuristics; Feasibility on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/tags/integer-programming-primal-heuristics-feasibility/</link>
+    <link>https://ceandrade.github.io/tags/integer-programming-primal-heuristics-feasibility/</link>
     <description>Recent content in Integer programming; Primal heuristics; Feasibility on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,15 +12,15 @@ content.
 </copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/integer-programming-primal-heuristics-feasibility/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/tags/integer-programming-primal-heuristics-feasibility/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A hybrid primal heuristic for finding feasible solutions to mixed integer programs</title>
-      <link>http://localhost:1313/publication/andrade-2017-hybrid-heuristic-feasibility/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2017-hybrid-heuristic-feasibility/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2017-hybrid-heuristic-feasibility/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2017-hybrid-heuristic-feasibility/</guid>
       <description></description>
     </item>
     

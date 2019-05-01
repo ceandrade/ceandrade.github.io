@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milap Majmundar on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/authors/milap-majmundar/</link>
+    <link>https://ceandrade.github.io/authors/milap-majmundar/</link>
     <description>Recent content in Milap Majmundar on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,24 +12,24 @@ content.
 </copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/milap-majmundar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/authors/milap-majmundar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Managing massive firmware-over-the-air updates for connected cars in cellular networks</title>
-      <link>http://localhost:1313/publication/andrade-2017-managing-fota/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2017-managing-fota/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheduling Software Updates for Connected Cars with Limited Availability</title>
-      <link>http://localhost:1313/publication/andrade-2016-scheduling-connected-cars/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2016-scheduling-connected-cars/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</guid>
       <description></description>
     </item>
     

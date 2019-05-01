@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert D. Doverspike on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/authors/robert-d.-doverspike/</link>
+    <link>https://ceandrade.github.io/authors/robert-d.-doverspike/</link>
     <description>Recent content in Robert D. Doverspike on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,24 +12,24 @@ content.
 </copyright>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/robert-d.-doverspike/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/authors/robert-d.-doverspike/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A biased random-key genetic algorithm for wireless backhaul network design</title>
-      <link>http://localhost:1313/publication/andrade-2015-brkga-wireless-backhaul-design/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2015-brkga-wireless-backhaul-design/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A biased random-key genetic algorithm for a prize-collecting directed Steiner forest network design problem</title>
-      <link>http://localhost:1313/publication/resende-2015-brkga-prize-collecting-steiner/</link>
+      <link>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/resende-2015-brkga-prize-collecting-steiner/</guid>
+      <guid>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</guid>
       <description></description>
     </item>
     

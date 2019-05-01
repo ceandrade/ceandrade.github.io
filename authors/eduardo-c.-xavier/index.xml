@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eduardo C. Xavier on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/authors/eduardo-c.-xavier/</link>
+    <link>https://ceandrade.github.io/authors/eduardo-c.-xavier/</link>
     <description>Recent content in Eduardo C. Xavier on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,15 +12,15 @@ content.
 </copyright>
     <lastBuildDate>Sun, 01 Jan 2006 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/eduardo-c.-xavier/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/authors/eduardo-c.-xavier/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Um algoritmo exato para o Problema de Empacotamento Bidimensional em Faixas</title>
-      <link>http://localhost:1313/publication/andrade-2006-branch-and-price/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2006-branch-and-price/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2006-branch-and-price/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2006-branch-and-price/</guid>
       <description></description>
     </item>
     

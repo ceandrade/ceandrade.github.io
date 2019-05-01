@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data mining; Correlation Clustering; Biased Random-Key Genetic Algorithm on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/tags/data-mining-correlation-clustering-biased-random-key-genetic-algorithm/</link>
+    <link>https://ceandrade.github.io/tags/data-mining-correlation-clustering-biased-random-key-genetic-algorithm/</link>
     <description>Recent content in Data mining; Correlation Clustering; Biased Random-Key Genetic Algorithm on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,15 +12,15 @@ content.
 </copyright>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/data-mining-correlation-clustering-biased-random-key-genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/tags/data-mining-correlation-clustering-biased-random-key-genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evolutionary algorithms for overlapping correlation clustering</title>
-      <link>http://localhost:1313/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</guid>
       <description></description>
     </item>
     

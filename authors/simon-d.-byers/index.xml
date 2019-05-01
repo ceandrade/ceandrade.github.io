@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simon D. Byers on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/authors/simon-d.-byers/</link>
+    <link>https://ceandrade.github.io/authors/simon-d.-byers/</link>
     <description>Recent content in Simon D. Byers on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,51 +12,51 @@ content.
 </copyright>
     <lastBuildDate>Thu, 06 Sep 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/simon-d.-byers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/authors/simon-d.-byers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Facilitating Software Downloads To Internet Of Things Devices Via A Constrained Network</title>
-      <link>http://localhost:1313/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</link>
+      <link>https://ceandrade.github.io/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</guid>
+      <guid>https://ceandrade.github.io/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facilitation of Efficient Software Downloads for Vehicles</title>
-      <link>http://localhost:1313/patent/byers2016-facilitation-of-efficient-software-downloads-for-vehicles/</link>
+      <link>https://ceandrade.github.io/patent/byers2016-facilitation-of-efficient-software-downloads-for-vehicles/</link>
       <pubDate>Thu, 28 Dec 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/patent/byers2016-facilitation-of-efficient-software-downloads-for-vehicles/</guid>
+      <guid>https://ceandrade.github.io/patent/byers2016-facilitation-of-efficient-software-downloads-for-vehicles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connected cars in a cellular network: A measurement study</title>
-      <link>http://localhost:1313/publication/andrade-2017-connected-cars-measurement/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2017-connected-cars-measurement/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing massive firmware-over-the-air updates for connected cars in cellular networks</title>
-      <link>http://localhost:1313/publication/andrade-2017-managing-fota/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2017-managing-fota/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheduling Software Updates for Connected Cars with Limited Availability</title>
-      <link>http://localhost:1313/publication/andrade-2016-scheduling-connected-cars/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2016-scheduling-connected-cars/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</guid>
       <description></description>
     </item>
     

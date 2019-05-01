@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mauricio G. C. Resende on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/authors/mauricio-g.-c.-resende/</link>
+    <link>https://ceandrade.github.io/authors/mauricio-g.-c.-resende/</link>
     <description>Recent content in Mauricio G. C. Resende on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,78 +12,78 @@ content.
 </copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/mauricio-g.-c.-resende/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/authors/mauricio-g.-c.-resende/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Heuristics for a Hub Location-Routing Problem</title>
-      <link>http://localhost:1313/publication/lopes-2016-heuristics-hub-location/</link>
+      <link>https://ceandrade.github.io/publication/lopes-2016-heuristics-hub-location/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/lopes-2016-heuristics-hub-location/</guid>
+      <guid>https://ceandrade.github.io/publication/lopes-2016-heuristics-hub-location/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A biased random-key genetic algorithm for wireless backhaul network design</title>
-      <link>http://localhost:1313/publication/andrade-2015-brkga-wireless-backhaul-design/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2015-brkga-wireless-backhaul-design/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biased random-key genetic algorithms for the winner determination problem in combinatorial auctions</title>
-      <link>http://localhost:1313/publication/andrade-2015-brkga-ca/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2015-brkga-ca/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary algorithms for overlapping correlation clustering</title>
-      <link>http://localhost:1313/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Some extensions of biased random-key genetic algorithms</title>
-      <link>http://localhost:1313/publication/lucena-2014-extensions-brkga/</link>
+      <link>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/lucena-2014-extensions-brkga/</guid>
+      <guid>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary algorithm for the $k$-interconnected multi-depot multi-traveling salesmen problem</title>
-      <link>http://localhost:1313/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary algorithms for overlapping correlation clustering</title>
-      <link>http://localhost:1313/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving the winner determination problem by biased random-key genetic algorithms</title>
-      <link>http://localhost:1313/publication/andrade-2012-solving-wdp-brkga/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2012-solving-wdp-brkga/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</guid>
       <description></description>
     </item>
     

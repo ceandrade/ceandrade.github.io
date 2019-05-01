@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/authors/admin/</link>
+    <link>https://ceandrade.github.io/authors/admin/</link>
     <description>Recent content in admin on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,15 +12,15 @@ content.
 </copyright>
     <lastBuildDate>Sun, 14 Apr 2019 18:23:47 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://localhost:1313/author/admin/</link>
+      <link>https://ceandrade.github.io/author/admin/</link>
       <pubDate>Sun, 14 Apr 2019 18:23:47 -0400</pubDate>
       
-      <guid>http://localhost:1313/author/admin/</guid>
+      <guid>https://ceandrade.github.io/author/admin/</guid>
       <description>Hi, my name is Carlos Eduardo de Andrade and I&amp;rsquo;m a senior Inventive Scientist at AT&amp;amp;T Labs Research. I&amp;rsquo;m interested in the application of exact algorithms (mixed integer based) and heuristics like genetic algorithms, variable neighborhood search, and others, to deal with real large-scale problems in network design and orchestration/operation (including Software-Defined Networks). Several problems emerge in this context such as networking planning (several Steiner-tree-like problems), physical and virtual resource location and deployment (facility-location-like problems) used in network function virtualization, among others.</description>
     </item>
     

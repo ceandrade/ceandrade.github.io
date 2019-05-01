@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on &lt;cea /&gt;</title>
-    <link>http://localhost:1313/publication_types/1/</link>
+    <link>https://ceandrade.github.io/publication_types/1/</link>
     <description>Recent content in 1 on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,132 +12,132 @@ content.
 </copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Connected cars in a cellular network: A measurement study</title>
-      <link>http://localhost:1313/publication/andrade-2017-connected-cars-measurement/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2017-connected-cars-measurement/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing massive firmware-over-the-air updates for connected cars in cellular networks</title>
-      <link>http://localhost:1313/publication/andrade-2017-managing-fota/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2017-managing-fota/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheduling Software Updates for Connected Cars with Limited Availability</title>
-      <link>http://localhost:1313/publication/andrade-2016-scheduling-connected-cars/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2016-scheduling-connected-cars/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heuristics for the Wireless Backhaul Network Design Problem</title>
-      <link>http://localhost:1313/publication/andrade-2016-heuristics-for-wireless-backhaul/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2016-heuristics-for-wireless-backhaul/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2016-heuristics-for-wireless-backhaul/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2016-heuristics-for-wireless-backhaul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large Scale Scheduling Problems on Internet of Things</title>
-      <link>http://localhost:1313/publication/andrade-2016-scheduling-io-t/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-io-t/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2016-scheduling-io-t/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-io-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Learning Framework for Feasibility Pump</title>
-      <link>http://localhost:1313/publication/andrade-2015-learning-feasibility-pump/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2015-learning-feasibility-pump/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2015-learning-feasibility-pump/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2015-learning-feasibility-pump/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A biased random-key genetic algorithm for a prize-collecting directed Steiner forest network design problem</title>
-      <link>http://localhost:1313/publication/resende-2015-brkga-prize-collecting-steiner/</link>
+      <link>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/resende-2015-brkga-prize-collecting-steiner/</guid>
+      <guid>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary algorithms for overlapping correlation clustering</title>
-      <link>http://localhost:1313/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving a variant of the (hub) location-routing problem</title>
-      <link>http://localhost:1313/publication/lopes-2014-solving-hub-location-routing/</link>
+      <link>https://ceandrade.github.io/publication/lopes-2014-solving-hub-location-routing/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/lopes-2014-solving-hub-location-routing/</guid>
+      <guid>https://ceandrade.github.io/publication/lopes-2014-solving-hub-location-routing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Some extensions of biased random-key genetic algorithms</title>
-      <link>http://localhost:1313/publication/lucena-2014-extensions-brkga/</link>
+      <link>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/lucena-2014-extensions-brkga/</guid>
+      <guid>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary algorithm for the $k$-interconnected multi-depot multi-traveling salesmen problem</title>
-      <link>http://localhost:1313/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary algorithms for overlapping correlation clustering</title>
-      <link>http://localhost:1313/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2013-evol-alg-overlapping-correlation-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving the winner determination problem by biased random-key genetic algorithms</title>
-      <link>http://localhost:1313/publication/andrade-2012-solving-wdp-brkga/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2012-solving-wdp-brkga/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Um algoritmo exato para o Problema de Empacotamento Bidimensional em Faixas</title>
-      <link>http://localhost:1313/publication/andrade-2006-branch-and-price/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2006-branch-and-price/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publication/andrade-2006-branch-and-price/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2006-branch-and-price/</guid>
       <description></description>
     </item>
     
