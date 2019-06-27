@@ -10,10 +10,37 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biased Random-Key Genetic Algorithm</title>
+      <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased Random-Key Genetic Algorithms</title>
+      <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased random-key genetic algorithm</title>
+      <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biased random-key genetic algorithms</title>
@@ -21,6 +48,15 @@ content.
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased random‐key genetic algorithm</title>
+      <link>https://ceandrade.github.io/tags/biased-randomkey-genetic-algorithm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/biased-randomkey-genetic-algorithm/</guid>
       <description></description>
     </item>
     
@@ -34,20 +70,47 @@ content.
     </item>
     
     <item>
-      <title>Combinatorial Optimization; Network Design; Biased Random-Key Genetic Algorithms.</title>
-      <link>https://ceandrade.github.io/tags/combinatorial-optimization-network-design-biased-random-key-genetic-algorithms./</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <title>Branch-and-Price</title>
+      <link>https://ceandrade.github.io/tags/branch-and-price/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/combinatorial-optimization-network-design-biased-random-key-genetic-algorithms./</guid>
+      <guid>https://ceandrade.github.io/tags/branch-and-price/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Combinatorial auctions; Winner determination problem; Genetic algorithms</title>
-      <link>https://ceandrade.github.io/tags/combinatorial-auctions-winner-determination-problem-genetic-algorithms/</link>
+      <title>Branch-and-cut</title>
+      <link>https://ceandrade.github.io/tags/branch-and-cut/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/combinatorial-auctions-winner-determination-problem-genetic-algorithms/</guid>
+      <guid>https://ceandrade.github.io/tags/branch-and-cut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Column Generation</title>
+      <link>https://ceandrade.github.io/tags/column-generation/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/column-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Optimization</title>
+      <link>https://ceandrade.github.io/tags/combinatorial-optimization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/combinatorial-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial auctions</title>
+      <link>https://ceandrade.github.io/tags/combinatorial-auctions/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/combinatorial-auctions/</guid>
       <description></description>
     </item>
     
@@ -61,11 +124,20 @@ content.
     </item>
     
     <item>
-      <title>Connected car; LTE; Firmware over the air</title>
-      <link>https://ceandrade.github.io/tags/connected-car-lte-firmware-over-the-air/</link>
+      <title>Connected Cars</title>
+      <link>https://ceandrade.github.io/tags/connected-cars/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/connected-cars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connected car</title>
+      <link>https://ceandrade.github.io/tags/connected-car/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/connected-car-lte-firmware-over-the-air/</guid>
+      <guid>https://ceandrade.github.io/tags/connected-car/</guid>
       <description></description>
     </item>
     
@@ -79,65 +151,137 @@ content.
     </item>
     
     <item>
-      <title>Cut and Packing Problem; Branch-and-Price; Column Generation.</title>
-      <link>https://ceandrade.github.io/tags/cut-and-packing-problem-branch-and-price-column-generation./</link>
+      <title>Correlation Clustering</title>
+      <link>https://ceandrade.github.io/tags/correlation-clustering/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/correlation-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossover</title>
+      <link>https://ceandrade.github.io/tags/crossover/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/crossover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cut and Packing Problem</title>
+      <link>https://ceandrade.github.io/tags/cut-and-packing-problem/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/cut-and-packing-problem-branch-and-price-column-generation./</guid>
+      <guid>https://ceandrade.github.io/tags/cut-and-packing-problem/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data mining; Correlation Clustering; Biased Random-Key Genetic Algorithm</title>
-      <link>https://ceandrade.github.io/tags/data-mining-correlation-clustering-biased-random-key-genetic-algorithm/</link>
+      <title>Data mining</title>
+      <link>https://ceandrade.github.io/tags/data-mining/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/data-mining-correlation-clustering-biased-random-key-genetic-algorithm/</guid>
+      <guid>https://ceandrade.github.io/tags/data-mining/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Flowshop scheduling; Biased random-key genetic algorithm; Metaheuristics</title>
-      <link>https://ceandrade.github.io/tags/flowshop-scheduling-biased-random-key-genetic-algorithm-metaheuristics/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/tags/flowshop-scheduling-biased-random-key-genetic-algorithm-metaheuristics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flowshop scheduling; Heuristics; Metaheuristics</title>
-      <link>https://ceandrade.github.io/tags/flowshop-scheduling-heuristics-metaheuristics/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/tags/flowshop-scheduling-heuristics-metaheuristics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic Algorithms; Crossover; Combinatorial optimization</title>
-      <link>https://ceandrade.github.io/tags/genetic-algorithms-crossover-combinatorial-optimization/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/tags/genetic-algorithms-crossover-combinatorial-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hub location-routing problem; Heuristics; Variable neighborhood descent; Biased random‐key genetic algorithm; Integer formulation</title>
-      <link>https://ceandrade.github.io/tags/hub-location-routing-problem-heuristics-variable-neighborhood-descent-biased-randomkey-genetic-algorithm-integer-formulation/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/tags/hub-location-routing-problem-heuristics-variable-neighborhood-descent-biased-randomkey-genetic-algorithm-integer-formulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integer programming; Primal heuristics; Feasibility</title>
-      <link>https://ceandrade.github.io/tags/integer-programming-primal-heuristics-feasibility/</link>
+      <title>Feasibility</title>
+      <link>https://ceandrade.github.io/tags/feasibility/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/integer-programming-primal-heuristics-feasibility/</guid>
+      <guid>https://ceandrade.github.io/tags/feasibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firmware over the air</title>
+      <link>https://ceandrade.github.io/tags/firmware-over-the-air/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/firmware-over-the-air/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flowshop scheduling</title>
+      <link>https://ceandrade.github.io/tags/flowshop-scheduling/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/flowshop-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Algorithms</title>
+      <link>https://ceandrade.github.io/tags/genetic-algorithms/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/genetic-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic algorithm</title>
+      <link>https://ceandrade.github.io/tags/genetic-algorithm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic algorithms</title>
+      <link>https://ceandrade.github.io/tags/genetic-algorithms/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/genetic-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics</title>
+      <link>https://ceandrade.github.io/tags/heuristics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/heuristics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hub location-routing problem</title>
+      <link>https://ceandrade.github.io/tags/hub-location-routing-problem/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/hub-location-routing-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integer formulation</title>
+      <link>https://ceandrade.github.io/tags/integer-formulation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/integer-formulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integer programming</title>
+      <link>https://ceandrade.github.io/tags/integer-programming/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/integer-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Things</title>
+      <link>https://ceandrade.github.io/tags/internet-of-things/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/internet-of-things/</guid>
       <description></description>
     </item>
     
@@ -151,6 +295,15 @@ content.
     </item>
     
     <item>
+      <title>LTE</title>
+      <link>https://ceandrade.github.io/tags/lte/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/lte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Level location analytics</title>
       <link>https://ceandrade.github.io/tags/level-location-analytics/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0400</pubDate>
@@ -160,29 +313,128 @@ content.
     </item>
     
     <item>
-      <title>Location-routing problem; Branch-and-cut; Local search</title>
-      <link>https://ceandrade.github.io/tags/location-routing-problem-branch-and-cut-local-search/</link>
+      <title>Local search</title>
+      <link>https://ceandrade.github.io/tags/local-search/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/location-routing-problem-branch-and-cut-local-search/</guid>
+      <guid>https://ceandrade.github.io/tags/local-search/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Network Design; Routing Problems; Traveling Salesman Problem; Genetic Algorithms</title>
-      <link>https://ceandrade.github.io/tags/network-design-routing-problems-traveling-salesman-problem-genetic-algorithms/</link>
+      <title>Location-routing problem</title>
+      <link>https://ceandrade.github.io/tags/location-routing-problem/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/location-routing-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaheuristics</title>
+      <link>https://ceandrade.github.io/tags/metaheuristics/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/metaheuristics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed integer programming model</title>
+      <link>https://ceandrade.github.io/tags/mixed-integer-programming-model/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/mixed-integer-programming-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Design</title>
+      <link>https://ceandrade.github.io/tags/network-design/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/network-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primal heuristics</title>
+      <link>https://ceandrade.github.io/tags/primal-heuristics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/primal-heuristics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing Problems</title>
+      <link>https://ceandrade.github.io/tags/routing-problems/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/network-design-routing-problems-traveling-salesman-problem-genetic-algorithms/</guid>
+      <guid>https://ceandrade.github.io/tags/routing-problems/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Wireless backhaul network design; Small cells; Genetic algorithm; Mixed integer programming model</title>
-      <link>https://ceandrade.github.io/tags/wireless-backhaul-network-design-small-cells-genetic-algorithm-mixed-integer-programming-model/</link>
+      <title>Scheduling</title>
+      <link>https://ceandrade.github.io/tags/scheduling/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small cells</title>
+      <link>https://ceandrade.github.io/tags/small-cells/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/small-cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time- and Machine-Dependent Scheduling</title>
+      <link>https://ceandrade.github.io/tags/time-and-machine-dependent-scheduling/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/time-and-machine-dependent-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling Salesman Problem</title>
+      <link>https://ceandrade.github.io/tags/traveling-salesman-problem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/traveling-salesman-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood descent</title>
+      <link>https://ceandrade.github.io/tags/variable-neighborhood-descent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/variable-neighborhood-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winner determination proble</title>
+      <link>https://ceandrade.github.io/tags/winner-determination-proble/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/tags/wireless-backhaul-network-design-small-cells-genetic-algorithm-mixed-integer-programming-model/</guid>
+      <guid>https://ceandrade.github.io/tags/winner-determination-proble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless backhaul network design</title>
+      <link>https://ceandrade.github.io/tags/wireless-backhaul-network-design/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/wireless-backhaul-network-design/</guid>
       <description></description>
     </item>
     

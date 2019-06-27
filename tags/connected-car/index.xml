@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connected car on &lt;cea /&gt;</title>
+    <link>https://ceandrade.github.io/tags/connected-car/</link>
+    <description>Recent content in Connected car on &lt;cea /&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
+examined the content. The author of the page is solely responsable for the
+content.
+</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ceandrade.github.io/tags/connected-car/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Connected cars in a cellular network: A measurement study</title>
+      <link>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing massive firmware-over-the-air updates for connected cars in cellular networks</title>
+      <link>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2017-managing-fota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Software Updates for Connected Cars with Limited Availability</title>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Scale Scheduling Problems on Internet of Things</title>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-io-t/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-io-t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

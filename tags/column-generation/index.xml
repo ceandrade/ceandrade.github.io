@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Column Generation on &lt;cea /&gt;</title>
+    <link>https://ceandrade.github.io/tags/column-generation/</link>
+    <description>Recent content in Column Generation on &lt;cea /&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
+examined the content. The author of the page is solely responsable for the
+content.
+</copyright>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ceandrade.github.io/tags/column-generation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Um algoritmo exato para o Problema de Empacotamento Bidimensional em Faixas</title>
+      <link>https://ceandrade.github.io/publication/andrade-2006-branch-and-price/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2006-branch-and-price/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Um algoritmo exato para o Problema de Empacotamento Bidimensional em Faixas</title>
+      <link>https://ceandrade.github.io/publication/andrade-2006-masterthesis/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2006-masterthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

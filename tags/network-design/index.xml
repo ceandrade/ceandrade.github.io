@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Design on &lt;cea /&gt;</title>
+    <link>https://ceandrade.github.io/tags/network-design/</link>
+    <description>Recent content in Network Design on &lt;cea /&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
+examined the content. The author of the page is solely responsable for the
+content.
+</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ceandrade.github.io/tags/network-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evolutionary Algorithms for some Problems in Telecommunications</title>
+      <link>https://ceandrade.github.io/publication/andrade-2015-evolutionary-algs-telecomm/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2015-evolutionary-algs-telecomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary algorithm for the $k$-interconnected multi-depot multi-traveling salesmen problem</title>
+      <link>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

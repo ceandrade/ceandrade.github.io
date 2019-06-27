@@ -9,6 +9,12 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/publication/andrade-2019-scheduling-fota/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/patent/andrade2019-model-driven-automated-cell-pci-rsi-allocation-optimization-in-5g-wireless-network/</loc>
       <lastmod>2019-04-11T12:06:35-04:00</lastmod>
     </url>
@@ -252,7 +258,35 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</loc>
+      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</loc>
+      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/biased-randomkey-genetic-algorithm/</loc>
       <lastmod>2019-06-05T16:51:20-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -261,6 +295,20 @@
     
       <loc>https://ceandrade.github.io/tags/big-data/</loc>
       <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/branch-and-price/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/branch-and-cut/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -294,20 +342,27 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/christopher-t.-volinsky/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/combinatorial-optimization-network-design-biased-random-key-genetic-algorithms./</loc>
+      <loc>https://ceandrade.github.io/tags/column-generation/</loc>
       <lastmod>2019-04-13T17:35:30-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/combinatorial-auctions-winner-determination-problem-genetic-algorithms/</loc>
+      <loc>https://ceandrade.github.io/tags/combinatorial-optimization/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/combinatorial-auctions/</loc>
       <lastmod>2019-06-05T16:51:20-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -321,7 +376,14 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/connected-car-lte-firmware-over-the-air/</loc>
+      <loc>https://ceandrade.github.io/tags/connected-cars/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/connected-car/</loc>
       <lastmod>2019-04-12T17:22:30-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -335,14 +397,28 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/cut-and-packing-problem-branch-and-price-column-generation./</loc>
+      <loc>https://ceandrade.github.io/tags/correlation-clustering/</loc>
       <lastmod>2019-04-13T17:35:30-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/data-mining-correlation-clustering-biased-random-key-genetic-algorithm/</loc>
+      <loc>https://ceandrade.github.io/tags/crossover/</loc>
+      <lastmod>2019-05-13T19:10:49-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/cut-and-packing-problem/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/data-mining/</loc>
       <lastmod>2019-04-13T17:35:30-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -350,7 +426,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/david-j.-poole/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -364,20 +440,27 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/emir-halepovic/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/flowshop-scheduling-biased-random-key-genetic-algorithm-metaheuristics/</loc>
+      <loc>https://ceandrade.github.io/tags/feasibility/</loc>
       <lastmod>2019-06-05T16:51:20-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/flowshop-scheduling-heuristics-metaheuristics/</loc>
+      <loc>https://ceandrade.github.io/tags/firmware-over-the-air/</loc>
+      <lastmod>2019-04-12T17:22:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/flowshop-scheduling/</loc>
       <lastmod>2019-06-05T16:51:20-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -391,14 +474,35 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/genetic-algorithms-crossover-combinatorial-optimization/</loc>
+      <loc>https://ceandrade.github.io/tags/genetic-algorithms/</loc>
       <lastmod>2019-05-13T19:10:49-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/genetic-algorithm/</loc>
+      <lastmod>2019-04-12T17:22:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/genetic-algorithms/</loc>
+      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/george-l.-nemhauser/</loc>
+      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/heuristics/</loc>
       <lastmod>2019-06-05T16:51:20-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -412,15 +516,29 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/hub-location-routing-problem-heuristics-variable-neighborhood-descent-biased-randomkey-genetic-algorithm-integer-formulation/</loc>
+      <loc>https://ceandrade.github.io/tags/hub-location-routing-problem/</loc>
       <lastmod>2019-06-05T16:51:20-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/integer-programming-primal-heuristics-feasibility/</loc>
+      <loc>https://ceandrade.github.io/tags/integer-formulation/</loc>
       <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/integer-programming/</loc>
+      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/internet-of-things/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -440,6 +558,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/lte/</loc>
+      <lastmod>2019-04-12T17:22:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/tags/level-location-analytics/</loc>
       <lastmod>2019-04-11T12:06:35-04:00</lastmod>
       <priority>0</priority>
@@ -448,13 +573,20 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/lien-k.-tran/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/location-routing-problem-branch-and-cut-local-search/</loc>
+      <loc>https://ceandrade.github.io/tags/local-search/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/location-routing-problem/</loc>
       <lastmod>2019-04-13T17:35:30-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -496,7 +628,21 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/metaheuristics/</loc>
+      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/milap-majmundar/</loc>
+      <lastmod>2019-04-12T17:22:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/mixed-integer-programming-model/</loc>
       <lastmod>2019-04-12T17:22:30-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -510,7 +656,7 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/network-design-routing-problems-traveling-salesman-problem-genetic-algorithms/</loc>
+      <loc>https://ceandrade.github.io/tags/network-design/</loc>
       <lastmod>2019-04-13T17:35:30-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -525,6 +671,13 @@
     
       <loc>https://ceandrade.github.io/post/</loc>
       <lastmod>2019-02-04T22:42:51+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/primal-heuristics/</loc>
+      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -576,8 +729,22 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/routing-problems/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/sarat-puthenpura/</loc>
       <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/scheduling/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -591,7 +758,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/simon-d.-byers/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -604,8 +771,15 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/small-cells/</loc>
+      <lastmod>2019-04-12T17:22:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/tags/</loc>
-      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -625,8 +799,29 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/time-and-machine-dependent-scheduling/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/traveling-salesman-problem/</loc>
+      <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/variable-neighborhood-descent/</loc>
+      <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/vijay-gopalakrishnan/</loc>
-      <lastmod>2019-04-12T17:22:30-04:00</lastmod>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -653,8 +848,15 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/tags/wireless-backhaul-network-design-small-cells-genetic-algorithm-mixed-integer-programming-model/</loc>
+      <loc>https://ceandrade.github.io/tags/winner-determination-proble/</loc>
       <lastmod>2019-06-05T16:51:20-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/wireless-backhaul-network-design/</loc>
+      <lastmod>2019-04-12T17:22:30-04:00</lastmod>
       <priority>0</priority>
     </url>
   
