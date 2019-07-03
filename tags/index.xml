@@ -10,10 +10,19 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4G/LTE</title>
+      <link>https://ceandrade.github.io/tags/4g/lte/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/4g/lte/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biased Random-Key Genetic Algorithm</title>
@@ -295,6 +304,15 @@ content.
     </item>
     
     <item>
+      <title>IoT</title>
+      <link>https://ceandrade.github.io/tags/iot/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LTE</title>
       <link>https://ceandrade.github.io/tags/lte/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
@@ -363,6 +381,15 @@ content.
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/primal-heuristics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prize-collecting Steiner problem</title>
+      <link>https://ceandrade.github.io/tags/prize-collecting-steiner-problem/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/prize-collecting-steiner-problem/</guid>
       <description></description>
     </item>
     

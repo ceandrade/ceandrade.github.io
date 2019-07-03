@@ -69,8 +69,8 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/publication/andrade-2016-scheduling-connected-cars/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <loc>https://ceandrade.github.io/publication/andrade-2017-scheduling-connected-cars/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -205,6 +205,13 @@
     
       <loc>https://ceandrade.github.io/publication_types/4/</loc>
       <lastmod>2019-04-13T17:35:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/4g/lte/</loc>
+      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -551,6 +558,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/iot/</loc>
+      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/kenneth-c.-reichmann/</loc>
       <lastmod>2019-07-02T09:59:53-04:00</lastmod>
       <priority>0</priority>
@@ -676,6 +690,13 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/primal-heuristics/</loc>
+      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/prize-collecting-steiner-problem/</loc>
       <lastmod>2019-07-02T09:59:53-04:00</lastmod>
       <priority>0</priority>
     </url>
