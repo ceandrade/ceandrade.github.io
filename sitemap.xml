@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/publication/andrade-2020-brkga-mp-ipr/</loc>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/publication/andrade-2019-pfsp-brkga-shaking/</loc>
       <lastmod>2019-07-02T09:59:53-04:00</lastmod>
     </url>
@@ -52,7 +58,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication/andrade-2017-hybrid-heuristic-feasibility/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-09-13T15:48:37-04:00</lastmod>
     </url>
   
     <url>
@@ -197,7 +203,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/2/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -239,7 +245,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -322,7 +328,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/carlos-e.-andrade/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -454,7 +460,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/feasibility/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-09-13T15:48:37-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -482,7 +488,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/genetic-algorithms/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -503,7 +509,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/george-l.-nemhauser/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-09-13T15:48:37-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -530,6 +536,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/hybrid-heuristics/</loc>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/tags/integer-formulation/</loc>
       <lastmod>2019-07-02T09:59:53-04:00</lastmod>
       <priority>0</priority>
@@ -538,7 +551,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/integer-programming/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-09-13T15:48:37-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -560,6 +573,13 @@
     
       <loc>https://ceandrade.github.io/tags/iot/</loc>
       <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/authors/jos%C3%A9-f.-gon%C3%A7alves/</loc>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -635,6 +655,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/authors/mauricio-g.c.-resende/</loc>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/mauro-c.-lopes/</loc>
       <lastmod>2019-07-02T09:59:53-04:00</lastmod>
       <priority>0</priority>
@@ -683,6 +710,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/path-relinking-algorithms/</loc>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/post/</loc>
       <lastmod>2019-02-04T22:42:51+00:00</lastmod>
     </url>
@@ -690,7 +724,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/primal-heuristics/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-09-13T15:48:37-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -744,7 +778,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/rodrigo-f.-toso/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-11-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -772,7 +806,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/shabbir-ahmed/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-09-13T15:48:37-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -891,7 +925,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/yufen-shao/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2019-09-13T15:48:37-04:00</lastmod>
       <priority>0</priority>
     </url>
   

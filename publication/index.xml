@@ -16,6 +16,15 @@ content.
     
     
     <item>
+      <title>The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications</title>
+      <link>https://ceandrade.github.io/publication/andrade-2020-brkga-mp-ipr/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2020-brkga-mp-ipr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Minimizing flowtime in a flowshop scheduling problem with a biased random-key genetic algorithm</title>
       <link>https://ceandrade.github.io/publication/andrade-2019-pfsp-brkga-shaking/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
