@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Internet of things on &lt;cea /&gt;</title>
+    <title>Internet of Things on &lt;cea /&gt;</title>
     <link>https://ceandrade.github.io/tags/internet-of-things/</link>
-    <description>Recent content in Internet of things on &lt;cea /&gt;</description>
+    <description>Recent content in Internet of Things on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/internet-of-things/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Facilitating Software Downloads To Internet Of Things Devices Via A Constrained Network</title>
-      <link>https://ceandrade.github.io/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 -0400</pubDate>
+      <title>Scheduling software updates for connected cars with limited availability</title>
+      <link>https://ceandrade.github.io/publication/andrade-2019-scheduling-fota/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/patent/byers2016-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2019-scheduling-fota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connected cars in a cellular network: A measurement study</title>
+      <link>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2017-connected-cars-measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Scale Scheduling Problems on Internet of Things</title>
+      <link>https://ceandrade.github.io/publication/andrade-2016-scheduling-io-t/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2016-scheduling-io-t/</guid>
       <description></description>
     </item>
     
