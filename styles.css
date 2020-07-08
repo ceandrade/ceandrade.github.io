@@ -123,14 +123,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #2962ff;
+  color: steelblue;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #2962ff;
+  color: steelblue;
 }
 
 img,
@@ -386,7 +386,7 @@ small,
 }
 
 .form-control:focus {
-  border-color: #2962ff;
+  border-color: steelblue;
   box-shadow: 0 0 0 .2rem #768fff;
 }
 
@@ -691,7 +691,7 @@ a.hero-cta-alt:hover {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #2962ff;
+  color: steelblue;
   font-size: 3rem;
   text-align: center;
 }
@@ -1031,7 +1031,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #2962ff;
+  color: steelblue;
 }
 
 .middot-divider {
@@ -1284,11 +1284,11 @@ article .article-metadata {
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: #2962ff !important;
+  border-color: steelblue !important;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: #2962ff !important;
+  background-color: steelblue !important;
 }
 
 /*************************************************
@@ -1650,13 +1650,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #2962ff;
-  background: #2962ff;
+  border-color: steelblue;
+  background: steelblue;
 }
 
 .btn-outline-primary {
-  border-color: #2962ff;
-  color: #2962ff;
+  border-color: steelblue;
+  color: steelblue;
 }
 
 .btn-primary:hover,
@@ -1664,7 +1664,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #2962ff;
+  background: steelblue;
 }
 
 .btn-outline-light:hover,
@@ -1677,8 +1677,8 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #2962ff;
-  border-color: #2962ff;
+  background-color: steelblue;
+  border-color: steelblue;
 }
 
 .dark .btn-outline-primary:not(:disabled):not(.disabled).active,
@@ -1689,8 +1689,8 @@ a.badge:hover {
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #2962ff;
-  border-color: #2962ff;
+  background-color: steelblue;
+  border-color: steelblue;
 }
 
 .dark .btn-outline-primary:hover {
@@ -2094,7 +2094,7 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: #2962ff;
+  border-color: steelblue;
   box-shadow: 0 0 0 3px #768fff;
 }
 
@@ -2160,7 +2160,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: #2962ff;
+  color: steelblue;
   background-color: transparent;
 }
 
@@ -2169,7 +2169,7 @@ div.alert a {
 .docs-toggle {
   line-height: 1;
   font-size: 1.2rem;
-  color: #2962ff;
+  color: steelblue;
   background-color: transparent;
 }
 
@@ -2286,7 +2286,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: #2962ff;
+  color: steelblue;
   text-decoration: none;
 }
 
@@ -2299,7 +2299,7 @@ ul.toc-top {
 }
 
 .anchorjs-link:hover {
-  color: #2962ff;
+  color: steelblue;
   text-decoration: none;
 }
 
@@ -2324,7 +2324,7 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: #2962ff;
+  border-color: steelblue;
   box-shadow: 0 0 0 .2rem #0039cb;
 }
 
@@ -2357,7 +2357,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: #2962ff;
+  background-color: steelblue;
 }
 
 .dark table table {
@@ -2410,7 +2410,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: #2962ff;
+  color: steelblue;
   border-bottom: solid 1px transparent;
 }
 
