@@ -10,10 +10,19 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/luciana-s.-pessoa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Some extensions of biased random-key genetic algorithms</title>
+      <link>https://ceandrade.github.io/publication/londe-2020-exact-models-for-rsi/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2020-exact-models-for-rsi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Minimizing flowtime in a flowshop scheduling problem with a biased random-key genetic algorithm</title>

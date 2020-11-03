@@ -9,6 +9,12 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/publication/londe-2020-exact-models-for-rsi/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/patent/andrade2019-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning/</loc>
       <lastmod>2020-05-19T11:25:37-04:00</lastmod>
     </url>
@@ -202,7 +208,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/1/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -465,6 +471,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/exact-models/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/tags/feasibility/</loc>
       <lastmod>2019-09-13T15:48:37-04:00</lastmod>
       <priority>0</priority>
@@ -516,6 +529,13 @@
     
       <loc>https://ceandrade.github.io/authors/george-l.-nemhauser/</loc>
       <lastmod>2019-09-13T15:48:37-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/graph-coloring/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -634,7 +654,14 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/luciana-s.-pessoa/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/authors/mariana-a.-londe/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -744,7 +771,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -752,6 +779,13 @@
     
       <loc>https://ceandrade.github.io/publication/</loc>
       <lastmod>2019-02-04T22:42:51+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/rsi-assignment-problem/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
