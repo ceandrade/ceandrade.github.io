@@ -10,10 +10,19 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/sarat-puthenpura/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Model-Driven Implementation of Services on a Software-Defined Network (divisional)</title>
+      <link>https://ceandrade.github.io/patent/andrade2020-model-driven-implementation-of-services-on-a-software-defined-network/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/andrade2020-model-driven-implementation-of-services-on-a-software-defined-network/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Apparatuses and methods for identifying infrastructure through machine learning</title>
