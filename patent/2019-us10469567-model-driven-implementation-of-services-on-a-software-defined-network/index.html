@@ -28,10 +28,25 @@
   
     
   
-  <meta name="description" content="In this paper, we present the Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking (BRKGA-MP-IPR), a variant of the Biased Random-Key Genetic Algorithm that employs multiple (biased) parents to generate offspring instead of the usual two, and is hybridized with a novel, implicit path-relinking local search procedure. By operating over the standard unit hypercube, such path-relinking mechanism leverages the population representation of the BRKGA and thus provides complete independence between the local search procedure and the problem definition and implementation. This approach contrasts with traditional path-relinking procedures that are tied to the problem structure. Having both BRKGA and IPR operate over the same solution space not only makes the intensification/diversification paradigm more natural but also greatly simplifies the development effort from the perspective of the practitioner, as one only needs to develop a decoder to map unit random-key vectors to the solution space of the problem on hand. Apart from such key benefits, extensive computational experiments solving real-world problems, such as over-the-air software upgrade scheduling, network design problems, and combinatorial auctions, show that the BRKGA-MP-IPR offers performance benefits over the standard BRKGA as well as the BRKGA with multiple parents.">
+  <meta name="description" content="In traditional environments, optimization of assets, services, and other
+elements are done on a case-by-case basis. Such an approach produces very
+specialized solutions for each problem, which are hard to generalize and
+maintain. Even small changes in the problem definition may require a large
+amount of effort to modify the solution. Therefore, the cost and time of
+development and maintenance of such solutions can be very high. With the
+advent of software-defined networks (SDNs) and virtual functions (VFs),
+cloud-like environments brings a high degree of automation. Services, assets,
+and other elements in the datacenter, network, even in the client side, are
+model-driven and constraints can change on-the-fly. This agile environment
+requires model-driven solutions that are general and can be adapted in a
+flexible manner. This disclosure offers a methodology and describes a
+prototype of a framework to deal with such a model-driven approach to solving
+optimization problems. The framework is generic enough to tackle many
+different problems though automatic model creation and optimization.
+">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/">
+  <link rel="alternate" hreflang="en-us" href="https://ceandrade.github.io/patent/2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network/">
 
   
 
@@ -122,7 +137,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/">
+  <link rel="canonical" href="https://ceandrade.github.io/patent/2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network/">
 
   
   
@@ -134,21 +149,36 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="&lt;cea /&gt;">
-  <meta property="og:url" content="https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/">
-  <meta property="og:title" content="The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications | &lt;cea /&gt;">
-  <meta property="og:description" content="In this paper, we present the Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking (BRKGA-MP-IPR), a variant of the Biased Random-Key Genetic Algorithm that employs multiple (biased) parents to generate offspring instead of the usual two, and is hybridized with a novel, implicit path-relinking local search procedure. By operating over the standard unit hypercube, such path-relinking mechanism leverages the population representation of the BRKGA and thus provides complete independence between the local search procedure and the problem definition and implementation. This approach contrasts with traditional path-relinking procedures that are tied to the problem structure. Having both BRKGA and IPR operate over the same solution space not only makes the intensification/diversification paradigm more natural but also greatly simplifies the development effort from the perspective of the practitioner, as one only needs to develop a decoder to map unit random-key vectors to the solution space of the problem on hand. Apart from such key benefits, extensive computational experiments solving real-world problems, such as over-the-air software upgrade scheduling, network design problems, and combinatorial auctions, show that the BRKGA-MP-IPR offers performance benefits over the standard BRKGA as well as the BRKGA with multiple parents."><meta property="og:image" content="https://ceandrade.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://ceandrade.github.io/patent/2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network/">
+  <meta property="og:title" content="Model-Driven Implementation of Services on a Software-Defined Network | &lt;cea /&gt;">
+  <meta property="og:description" content="In traditional environments, optimization of assets, services, and other
+elements are done on a case-by-case basis. Such an approach produces very
+specialized solutions for each problem, which are hard to generalize and
+maintain. Even small changes in the problem definition may require a large
+amount of effort to modify the solution. Therefore, the cost and time of
+development and maintenance of such solutions can be very high. With the
+advent of software-defined networks (SDNs) and virtual functions (VFs),
+cloud-like environments brings a high degree of automation. Services, assets,
+and other elements in the datacenter, network, even in the client side, are
+model-driven and constraints can change on-the-fly. This agile environment
+requires model-driven solutions that are general and can be adapted in a
+flexible manner. This disclosure offers a methodology and describes a
+prototype of a framework to deal with such a model-driven approach to solving
+optimization problems. The framework is generic enough to tackle many
+different problems though automatic model creation and optimization.
+"><meta property="og:image" content="https://ceandrade.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-11-22T00:00:00-05:00">
+  <meta property="article:published_time" content="2018-10-18T00:00:00-04:00">
   
-  <meta property="article:modified_time" content="2020-11-04T11:16:25-05:00">
-  
-
+  <meta property="article:modified_time" content="2018-10-18T00:00:00-04:00">
   
 
   
 
-  <title>The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications | &lt;cea /&gt;</title>
+  
+
+  <title>Model-Driven Implementation of Services on a Software-Defined Network | &lt;cea /&gt;</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -363,7 +393,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications</h1>
+  <h1 itemprop="name">Model-Driven Implementation of Services on a Software-Defined Network</h1>
 
   
 
@@ -372,8 +402,8 @@
 
 
 
-<meta content="2021-02-16 00:00:00 -0500 EST" itemprop="datePublished">
-<meta content="2020-11-04 11:16:25 -0500 EST" itemprop="dateModified">
+<meta content="2018-10-18 00:00:00 -0400 EDT" itemprop="datePublished">
+<meta content="2018-10-18 00:00:00 -0400 EDT" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -431,7 +461,7 @@
         
       
 
-      <a class="pub-authors" style="" href="/authors/rodrigo-f.-toso/">Rodrigo F. Toso</a></span></span>, 
+      <a class="pub-authors" style="" href="/authors/rakesh-k.-sinha/">Rakesh K. Sinha</a></span></span>, 
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
       
@@ -453,7 +483,7 @@
         
       
 
-      <a class="pub-authors" style="" href="/authors/jos%C3%A9-f.-gon%C3%A7alves/">José F. Gonçalves</a></span></span>, 
+      <a class="pub-authors" style="" href="/authors/weiyi-zhang/">Weiyi Zhang</a></span></span>, 
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
       
@@ -475,7 +505,7 @@
         
       
 
-      <a class="pub-authors" style="" href="/authors/mauricio-g.c.-resende/">Mauricio G.C. Resende</a></span></span>
+      <a class="pub-authors" style="" href="/authors/sarat-puthenpura/">Sarat Puthenpura</a></span></span>
   
 
 
@@ -490,7 +520,7 @@
     
       
     
-    <time>February 2021</time>
+    <time>2018-10-18</time>
   </span>
   
 
@@ -509,35 +539,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=The%20Multi-Parent%20Biased%20Random-Key%20Genetic%20Algorithm%20with%20Implicit%20Path-Relinking%20and%20its%20real-world%20applications&amp;url=https%3a%2f%2fceandrade.github.io%2fpublication%2fandrade-2021-brkga-mp-ipr%2f"
+         href="https://twitter.com/intent/tweet?text=Model-Driven%20Implementation%20of%20Services%20on%20a%20Software-Defined%20Network&amp;url=https%3a%2f%2fceandrade.github.io%2fpatent%2f2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fceandrade.github.io%2fpublication%2fandrade-2021-brkga-mp-ipr%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fceandrade.github.io%2fpatent%2f2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fceandrade.github.io%2fpublication%2fandrade-2021-brkga-mp-ipr%2f&amp;title=The%20Multi-Parent%20Biased%20Random-Key%20Genetic%20Algorithm%20with%20Implicit%20Path-Relinking%20and%20its%20real-world%20applications"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fceandrade.github.io%2fpatent%2f2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network%2f&amp;title=Model-Driven%20Implementation%20of%20Services%20on%20a%20Software-Defined%20Network"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fceandrade.github.io%2fpublication%2fandrade-2021-brkga-mp-ipr%2f&amp;title=The%20Multi-Parent%20Biased%20Random-Key%20Genetic%20Algorithm%20with%20Implicit%20Path-Relinking%20and%20its%20real-world%20applications"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fceandrade.github.io%2fpatent%2f2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network%2f&amp;title=Model-Driven%20Implementation%20of%20Services%20on%20a%20Software-Defined%20Network"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=The%20Multi-Parent%20Biased%20Random-Key%20Genetic%20Algorithm%20with%20Implicit%20Path-Relinking%20and%20its%20real-world%20applications&amp;body=https%3a%2f%2fceandrade.github.io%2fpublication%2fandrade-2021-brkga-mp-ipr%2f">
+         href="mailto:?subject=Model-Driven%20Implementation%20of%20Services%20on%20a%20Software-Defined%20Network&amp;body=https%3a%2f%2fceandrade.github.io%2fpatent%2f2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -564,8 +594,6 @@
 
 
 
-  
-
 
 
 <div class="btn-links mb-3">
@@ -585,11 +613,17 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/andrade-2021-brkga-mp-ipr/andrade-2021-brkga-mp-ipr.bib">
-  <i class="far fa-file-alt" aria-hidden="true"></i>
-  Cite
-</button>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -597,46 +631,11 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ceandrade/brkga_mp_ipr_cpp" target="_blank" rel="noopener">
-  <i class="fab fa-github" aria-hidden="true"></i>
-  Code and tutorial - C++
+<a class="btn btn-outline-primary my-1 mr-1" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10469567" target="_blank" rel="noopener">
+  <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+  Source Document
 </a>
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ceandrade/brkga_mp_ipr_julia" target="_blank" rel="noopener">
-  <i class="fab fa-github" aria-hidden="true"></i>
-  Code and tutorial - Julia
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ceandrade/brkga_mp_ipr_python" target="_blank" rel="noopener">
-  <i class="fab fa-github" aria-hidden="true"></i>
-  Code and tutorial - Python
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1016/j.ejor.2019.11.037" target="_blank" rel="noopener">
-  <i class="ai ai-doi" aria-hidden="true"></i>
-  DOI
-</a>
 
 
 
@@ -654,60 +653,106 @@
 
 
   <div class="article-container">
-
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">In this paper, we present the Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking (BRKGA-MP-IPR), a variant of the Biased Random-Key Genetic Algorithm that employs multiple (biased) parents to generate offspring instead of the usual two, and is hybridized with a novel, implicit path-relinking local search procedure. By operating over the standard unit hypercube, such path-relinking mechanism leverages the population representation of the BRKGA and thus provides complete independence between the local search procedure and the problem definition and implementation. This approach contrasts with traditional path-relinking procedures that are tied to the problem structure. Having both BRKGA and IPR operate over the same solution space not only makes the intensification/diversification paradigm more natural but also greatly simplifies the development effort from the perspective of the practitioner, as one only needs to develop a decoder to map unit random-key vectors to the solution space of the problem on hand. Apart from such key benefits, extensive computational experiments solving real-world problems, such as over-the-air software upgrade scheduling, network design problems, and combinatorial auctions, show that the BRKGA-MP-IPR offers performance benefits over the standard BRKGA as well as the BRKGA with multiple parents.</p>
+    <p class="pub-abstract" itemprop="text">In traditional environments, optimization of assets, services, and other
+elements are done on a case-by-case basis. Such an approach produces very
+specialized solutions for each problem, which are hard to generalize and
+maintain. Even small changes in the problem definition may require a large
+amount of effort to modify the solution. Therefore, the cost and time of
+development and maintenance of such solutions can be very high. With the
+advent of software-defined networks (SDNs) and virtual functions (VFs),
+cloud-like environments brings a high degree of automation. Services, assets,
+and other elements in the datacenter, network, even in the client side, are
+model-driven and constraints can change on-the-fly. This agile environment
+requires model-driven solutions that are general and can be adapted in a
+flexible manner. This disclosure offers a methodology and describes a
+prototype of a framework to deal with such a model-driven approach to solving
+optimization problems. The framework is generic enough to tackle many
+different problems though automatic model creation and optimization.</p>
+    
+
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Office</div>
+          <div class="col-12 col-md-8">USPTO</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Deposit number</div>
+          <div class="col-12 col-md-8">10,469,567</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
     <div class="row">
-      <div class="col-md-7">
-        
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
         <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Deposit date</div>
           
-          <div class="col-md-12">
-            <div class="row">
-              <div class="col-12 col-md-3 pub-row-heading">Type</div>
-              <div class="col-12 col-md-9">
-                
-
-                
-                
-                <a href="/publication/#2">
-                  Journal article
-                </a>
-                
-              </div>
-            </div>
-          </div>
           
+            
+            
+          
+          <div class="col-12 col-md-8"><time>2017-04-14</time></div>
         </div>
-        <div class="d-md-none space-below"></div>
-        
-
-        
-        <div class="row">
-          
-          <div class="col-md-12">
-            <div class="row">
-              <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-              <div class="col-12 col-md-9"><a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research"><em>European Journal of Operational Research</em></a></div>
-            </div>
-          </div>
-          
-        </div>
-        
-        
       </div>
-
-      
-      <div class="col-md-5">
-          <a href="https://www.scimagojr.com/journalsearch.php?q=22489&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank">
-            <img border="0" src="https://www.scimagojr.com/journal_img.php?id=22489" alt="SCImago Journal &amp; Country Rank"/>
-          </a>
-        </div>
-      
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Publication date</div>
+          
+          
+            
+            
+          
+          <div class="col-12 col-md-8"><time>2018-10-18</time></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Grant date</div>
+          
+          
+            
+            
+          
+          <div class="col-12 col-md-8"><time>2019-11-05</time></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+
+    <div class="d-md-none space-below"></div>
+
     <div class="space-below"></div>
 
     <div class="article-style"></div>
@@ -717,11 +762,13 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/genetic-algorithms/">Genetic Algorithms</a>
+  <a class="badge badge-light" href="/tags/level-location-analytics/">Level location analytics</a>
   
-  <a class="badge badge-light" href="/tags/path-relinking-algorithms/">Path-relinking algorithms</a>
+  <a class="badge badge-light" href="/tags/big-data/">Big data</a>
   
-  <a class="badge badge-light" href="/tags/hybrid-heuristics/">Hybrid heuristics</a>
+  <a class="badge badge-light" href="/tags/wirelles-technology/">Wirelles technology</a>
+  
+  <a class="badge badge-light" href="/tags/combinatorial-optimization/">Combinatorial optimization</a>
   
 </div>
 
