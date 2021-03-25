@@ -4,7 +4,13 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication/londe-2021-evolutionary-algs-for-p-next/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/patent/2021-us10958782-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network-continuation/</loc>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -57,8 +63,8 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <loc>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</loc>
+      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -233,7 +239,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/2/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -268,21 +274,21 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/8/</loc>
-      <lastmod>2020-05-19T11:25:37-04:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://ceandrade.github.io/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://ceandrade.github.io/authors/ajay-mahimkar/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -295,14 +301,14 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -337,7 +343,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/big-data/</loc>
-      <lastmod>2020-05-19T11:25:37-04:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -358,7 +364,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/carlos-e.-andrade/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -384,8 +390,15 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/change-management/</loc>
+      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/christopher-t.-volinsky/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -434,7 +447,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/connected-cars/</loc>
-      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -469,7 +482,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/david-j.-poole/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -483,7 +496,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/emir-halepovic/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -497,7 +510,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/facility-location/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -630,7 +643,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/internet-of-things/</loc>
-      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -679,7 +692,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/lien-k.-tran/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -707,14 +720,14 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/luciana-s.-pessoa/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://ceandrade.github.io/authors/mariana-a.-londe/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -756,7 +769,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/metaheuristics/</loc>
-      <lastmod>2021-02-23T00:00:00-05:00</lastmod>
+      <lastmod>2021-03-02T13:18:21-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -885,7 +898,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/robert-riding/</loc>
-      <lastmod>2019-04-11T12:06:35-04:00</lastmod>
+      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -927,7 +940,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/simon-d.-byers/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1046,7 +1059,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/wirelles-technology/</loc>
-      <lastmod>2020-05-19T11:25:37-04:00</lastmod>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   

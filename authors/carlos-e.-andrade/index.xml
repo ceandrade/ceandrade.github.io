@@ -10,7 +10,7 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/carlos-e.-andrade/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,9 +18,18 @@ content.
     <item>
       <title>An evolutionary approach for the p-next center problem</title>
       <link>https://ceandrade.github.io/publication/londe-2021-evolutionary-algs-for-p-next/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/publication/londe-2021-evolutionary-algs-for-p-next/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitating Software Downloads To Internet Of Things Devices Via A Constrained Network - Continuation</title>
+      <link>https://ceandrade.github.io/patent/2021-us10958782-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network-continuation/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/2021-us10958782-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network-continuation/</guid>
       <description></description>
     </item>
     
@@ -97,11 +106,11 @@ content.
     </item>
     
     <item>
-      <title>A scalable approach to conflict-free change deployment in 5G/LTE/cloud networks</title>
-      <link>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</link>
+      <title>Conflict-free change deployment</title>
+      <link>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/patent/andrade2018-a-scalable-approach-to-conflict-free-change-deployment-in-5g-lte-cloud-networks/</guid>
+      <guid>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</guid>
       <description></description>
     </item>
     
