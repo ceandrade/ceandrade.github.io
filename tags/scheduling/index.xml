@@ -10,10 +10,19 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/scheduling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conflict-free change deployment</title>
+      <link>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scheduling software updates for connected cars with limited availability</title>
@@ -21,15 +30,6 @@ content.
       <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/publication/andrade-2019-scheduling-fota/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conflict-free change deployment</title>
-      <link>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</guid>
       <description></description>
     </item>
     

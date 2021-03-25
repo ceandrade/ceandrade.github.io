@@ -9,6 +9,12 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</loc>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/patent/2021-us10958782-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network-continuation/</loc>
       <lastmod>2021-03-24T21:26:22-04:00</lastmod>
     </url>
@@ -17,12 +23,6 @@
     
       <loc>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</loc>
       <lastmod>2020-11-04T11:16:25-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://ceandrade.github.io/patent/chen2019-change-management-deconfliction-algorithm-for-multi-layer-virtual-networks/</loc>
-      <lastmod>2020-05-19T11:25:37-04:00</lastmod>
     </url>
   
     <url>
@@ -45,7 +45,25 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/patent/2019-us10470189-facilitation-of-efficient-software-downloads-for-vehicles/</loc>
+      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/patent/2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network/</loc>
+      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/patent/andrade2019-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning/</loc>
+      <lastmod>2020-05-19T11:25:37-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/patent/chen2019-change-management-deconfliction-algorithm-for-multi-layer-virtual-networks/</loc>
       <lastmod>2020-05-19T11:25:37-04:00</lastmod>
     </url>
   
@@ -57,38 +75,20 @@
   
     <url>
     
-      <loc>https://ceandrade.github.io/publication/andrade-2019-scheduling-fota/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</loc>
-      <lastmod>2021-03-24T21:26:22-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://ceandrade.github.io/patent/2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network/</loc>
-      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://ceandrade.github.io/patent/2019-us10362166-facilitating-software-downloads-to-internet-of-things-devices-via-a-constrained-network/</loc>
       <lastmod>2020-11-11T11:12:39-05:00</lastmod>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/publication/pessoa-2018-heuristics-flowshop-stepwise/</loc>
-      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
+      <loc>https://ceandrade.github.io/publication/andrade-2019-scheduling-fota/</loc>
+      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
     </url>
   
     <url>
     
-      <loc>https://ceandrade.github.io/patent/2019-us10470189-facilitation-of-efficient-software-downloads-for-vehicles/</loc>
-      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
+      <loc>https://ceandrade.github.io/publication/pessoa-2018-heuristics-flowshop-stepwise/</loc>
+      <lastmod>2019-07-02T09:59:53-04:00</lastmod>
     </url>
   
     <url>
@@ -274,7 +274,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/8/</loc>
-      <lastmod>2021-03-24T21:26:22-04:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -288,7 +288,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/ajay-mahimkar/</loc>
-      <lastmod>2021-03-24T21:26:22-04:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -301,7 +301,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/</loc>
-      <lastmod>2021-03-24T21:26:22-04:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -343,7 +343,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/big-data/</loc>
-      <lastmod>2021-03-24T21:26:22-04:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -391,7 +391,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/change-management/</loc>
-      <lastmod>2021-03-24T21:26:22-04:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -426,7 +426,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/combinatorial-optimization/</loc>
-      <lastmod>2020-05-19T11:25:37-04:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -685,7 +685,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/level-location-analytics/</loc>
-      <lastmod>2020-05-19T11:25:37-04:00</lastmod>
+      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -871,7 +871,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/rakesh-k.-sinha/</loc>
-      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -898,7 +898,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/robert-riding/</loc>
-      <lastmod>2021-03-24T21:26:22-04:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -926,7 +926,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/scheduling/</loc>
-      <lastmod>2019-07-03T19:06:29-04:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1024,7 +1024,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/weiyi-zhang/</loc>
-      <lastmod>2020-11-11T11:12:39-05:00</lastmod>
+      <lastmod>2021-03-24T21:30:14-04:00</lastmod>
       <priority>0</priority>
     </url>
   
