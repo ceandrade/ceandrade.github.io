@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Change Management on &lt;cea /&gt;</title>
+    <title>Change management on &lt;cea /&gt;</title>
     <link>https://ceandrade.github.io/tags/change-management/</link>
-    <description>Recent content in Change Management on &lt;cea /&gt;</description>
+    <description>Recent content in Change management on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/change-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Conflict-free change deployment</title>
-      <link>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 -0400</pubDate>
+      <title>Minimizing Effort and Risk with Network Change Deployment Planning</title>
+      <link>https://ceandrade.github.io/publication/andrade-2021-minimizing_effort_risk_change_deployment/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2021-minimizing_effort_risk_change_deployment/</guid>
       <description></description>
     </item>
     

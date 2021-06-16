@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scheduling problems on &lt;cea /&gt;</title>
+    <link>https://ceandrade.github.io/tags/scheduling-problems/</link>
+    <description>Recent content in Scheduling problems on &lt;cea /&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
+examined the content. The author of the page is solely responsable for the
+content.
+</copyright>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://ceandrade.github.io/tags/scheduling-problems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minimizing Effort and Risk with Network Change Deployment Planning</title>
+      <link>https://ceandrade.github.io/publication/andrade-2021-minimizing_effort_risk_change_deployment/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2021-minimizing_effort_risk_change_deployment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
