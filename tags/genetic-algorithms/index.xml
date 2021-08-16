@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Genetic algorithms on &lt;cea /&gt;</title>
+    <title>Genetic Algorithms on &lt;cea /&gt;</title>
     <link>https://ceandrade.github.io/tags/genetic-algorithms/</link>
-    <description>Recent content in Genetic algorithms on &lt;cea /&gt;</description>
+    <description>Recent content in Genetic Algorithms on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/genetic-algorithms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Biased random-key genetic algorithms for the winner determination problem in combinatorial auctions</title>
-      <link>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <title>The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications</title>
+      <link>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some extensions of biased random-key genetic algorithms</title>
+      <link>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary algorithm for the $k$-interconnected multi-depot multi-traveling salesmen problem</title>
+      <link>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</guid>
       <description></description>
     </item>
     
