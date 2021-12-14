@@ -10,7 +10,7 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@ content.
     <item>
       <title>Ajay Mahimkar</title>
       <link>https://ceandrade.github.io/authors/ajay-mahimkar/</link>
-      <pubDate>Mon, 19 Jul 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/ajay-mahimkar/</guid>
       <description></description>
@@ -36,7 +36,7 @@ content.
     <item>
       <title>Carlos E. Andrade</title>
       <link>https://ceandrade.github.io/authors/carlos-e.-andrade/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/authors/carlos-e.-andrade/</guid>
       <description></description>
@@ -117,7 +117,7 @@ content.
     <item>
       <title>Gilbert Figueroa</title>
       <link>https://ceandrade.github.io/authors/gilbert-figueroa/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/gilbert-figueroa/</guid>
       <description></description>
@@ -135,7 +135,7 @@ content.
     <item>
       <title>Gur Rotkop</title>
       <link>https://ceandrade.github.io/authors/gur-rotkop/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/gur-rotkop/</guid>
       <description></description>
@@ -180,7 +180,7 @@ content.
     <item>
       <title>Kun-Tsun Chen</title>
       <link>https://ceandrade.github.io/authors/kun-tsun-chen/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/kun-tsun-chen/</guid>
       <description></description>
@@ -198,9 +198,18 @@ content.
     <item>
       <title>Linda Clayton</title>
       <link>https://ceandrade.github.io/authors/linda-clayton/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/linda-clayton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luciana Pessoa</title>
+      <link>https://ceandrade.github.io/authors/luciana-pessoa/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/authors/luciana-pessoa/</guid>
       <description></description>
     </item>
     
@@ -219,6 +228,15 @@ content.
       <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/mariana-a.-londe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariana Londe</title>
+      <link>https://ceandrade.github.io/authors/mariana-londe/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/authors/mariana-londe/</guid>
       <description></description>
     </item>
     
@@ -279,7 +297,7 @@ content.
     <item>
       <title>Nemmara K. Shankaranarayanan</title>
       <link>https://ceandrade.github.io/authors/nemmara-k.-shankaranarayanan/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/authors/nemmara-k.-shankaranarayanan/</guid>
       <description></description>
@@ -288,7 +306,7 @@ content.
     <item>
       <title>Prasanna Ramachandran</title>
       <link>https://ceandrade.github.io/authors/prasanna-ramachandran/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/prasanna-ramachandran/</guid>
       <description></description>
@@ -297,7 +315,7 @@ content.
     <item>
       <title>Qun Luo</title>
       <link>https://ceandrade.github.io/authors/qun-luo/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/qun-luo/</guid>
       <description></description>
@@ -306,7 +324,7 @@ content.
     <item>
       <title>Rakesh K. Sinha</title>
       <link>https://ceandrade.github.io/authors/rakesh-k.-sinha/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/rakesh-k.-sinha/</guid>
       <description></description>
@@ -333,7 +351,7 @@ content.
     <item>
       <title>Robert Riding</title>
       <link>https://ceandrade.github.io/authors/robert-riding/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/robert-riding/</guid>
       <description></description>
@@ -351,7 +369,7 @@ content.
     <item>
       <title>Sarat Puthenpura</title>
       <link>https://ceandrade.github.io/authors/sarat-puthenpura/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/authors/sarat-puthenpura/</guid>
       <description></description>
@@ -378,7 +396,7 @@ content.
     <item>
       <title>Slawomir Stawiarski</title>
       <link>https://ceandrade.github.io/authors/slawomir-stawiarski/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/authors/slawomir-stawiarski/</guid>
       <description></description>
@@ -387,7 +405,7 @@ content.
     <item>
       <title>Stephen Wolyn</title>
       <link>https://ceandrade.github.io/authors/stephen-wolyn/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/stephen-wolyn/</guid>
       <description></description>
@@ -423,7 +441,7 @@ content.
     <item>
       <title>Wei Yuan</title>
       <link>https://ceandrade.github.io/authors/wei-yuan/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/authors/wei-yuan/</guid>
       <description></description>
@@ -432,7 +450,7 @@ content.
     <item>
       <title>Weiyi Zhang</title>
       <link>https://ceandrade.github.io/authors/weiyi-zhang/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/authors/weiyi-zhang/</guid>
       <description></description>
@@ -441,7 +459,7 @@ content.
     <item>
       <title>Wenjie Zhao</title>
       <link>https://ceandrade.github.io/authors/wenjie-zhao/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/authors/wenjie-zhao/</guid>
       <description></description>
@@ -477,7 +495,7 @@ content.
     <item>
       <title>Yuning Yang</title>
       <link>https://ceandrade.github.io/authors/yuning-yang/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/authors/yuning-yang/</guid>
       <description></description>
