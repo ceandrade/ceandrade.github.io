@@ -10,7 +10,7 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0200</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/robert-d.-doverspike/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@ content.
     <item>
       <title>A biased random-key genetic algorithm for wireless backhaul network design</title>
       <link>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0200</pubDate>
       
       <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-wireless-backhaul-design/</guid>
       <description></description>
@@ -27,7 +27,7 @@ content.
     <item>
       <title>A biased random-key genetic algorithm for a prize-collecting directed Steiner forest network design problem</title>
       <link>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0200</pubDate>
       
       <guid>https://ceandrade.github.io/publication/resende-2015-brkga-prize-collecting-steiner/</guid>
       <description></description>

@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/publication/paula-2022-ml-npl-biochar/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/patent/2021-us11202210-facilitating-model-driven-automated-cell-allocation-in-fifth-generation-5g-or-other-advanced-networks-continuation/</loc>
       <lastmod>2021-12-14T01:01:17-05:00</lastmod>
     </url>
@@ -287,7 +293,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/2/</loc>
-      <lastmod>2021-03-24T21:26:22-04:00</lastmod>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -329,7 +335,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/</loc>
-      <lastmod>2021-12-14T01:01:17-05:00</lastmod>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -342,8 +348,29 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/authors/amauri-j.-paula/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/andre-cir%C3%A9/</loc>
       <lastmod>2021-08-16T15:11:06-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/authors/andreia-f.-faria/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/authors/antonio-g.-souza-filho/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -404,6 +431,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/biochar/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/tags/branch-and-price/</loc>
       <lastmod>2019-07-02T09:59:53-04:00</lastmod>
       <priority>0</priority>
@@ -418,8 +452,15 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/carbon-materials/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/carlos-e.-andrade/</loc>
-      <lastmod>2021-12-14T01:01:17-05:00</lastmod>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -620,6 +661,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/authors/francisco-nepomuceno-filho/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/tags/genetic-algorithms/</loc>
       <lastmod>2020-11-04T11:16:25-05:00</lastmod>
       <priority>0</priority>
@@ -699,6 +747,13 @@
     
       <loc>https://ceandrade.github.io/tags/hybrid-heuristics/</loc>
       <lastmod>2020-11-04T11:16:25-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/hydrochar/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -830,6 +885,13 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/machine-learning/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/mariana-a.-londe/</loc>
       <lastmod>2021-03-24T21:26:22-04:00</lastmod>
       <priority>0</priority>
@@ -900,6 +962,20 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/tags/nanotechnology/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/natural-language-processing/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/authors/nemmara-k.-shankaranarayanan/</loc>
       <lastmod>2021-12-14T01:01:17-05:00</lastmod>
       <priority>0</priority>
@@ -916,6 +992,13 @@
     
       <loc>https://ceandrade.github.io/tags/network-change-management/</loc>
       <lastmod>2021-08-16T15:11:06-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/authors/odair-pastor-ferreira/</loc>
+      <lastmod>2022-01-12T14:45:09-03:00</lastmod>
       <priority>0</priority>
     </url>
   
