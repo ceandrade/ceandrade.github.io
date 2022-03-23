@@ -10,7 +10,7 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/rodrigo-f.-toso/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@ content.
     <item>
       <title>The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications</title>
       <link>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</guid>
       <description></description>
@@ -27,7 +27,7 @@ content.
     <item>
       <title>Biased random-key genetic algorithms for the winner determination problem in combinatorial auctions</title>
       <link>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 -0200</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/publication/andrade-2015-brkga-ca/</guid>
       <description></description>
@@ -36,7 +36,7 @@ content.
     <item>
       <title>Solving the winner determination problem by biased random-key genetic algorithms</title>
       <link>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 -0200</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/publication/andrade-2012-solving-wdp-brkga/</guid>
       <description></description>
