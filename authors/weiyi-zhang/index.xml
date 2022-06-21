@@ -10,10 +10,19 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/weiyi-zhang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apparatuses and methods for identifying infrastructure through machine learning</title>
+      <link>https://ceandrade.github.io/patent/2022-us11367277-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/2022-us11367277-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conflict-free change deployment - Continuation</title>
@@ -57,15 +66,6 @@ content.
       <pubDate>Tue, 05 Nov 2019 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/patent/2019-us10469567-model-driven-implementation-of-services-on-a-software-defined-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apparatuses and methods for identifying infrastructure through machine learning</title>
-      <link>https://ceandrade.github.io/patent/andrade2019-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/patent/andrade2019-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning/</guid>
       <description></description>
     </item>
     

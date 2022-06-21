@@ -10,8 +10,17 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Apparatuses and methods for identifying infrastructure through machine learning</title>
+      <link>https://ceandrade.github.io/patent/2022-us11367277-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/2022-us11367277-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning and Natural Language Processing Enable a Data-Oriented Experimental Design Approach for Producing Biochar and Hydrochar from Biomass</title>
@@ -136,15 +145,6 @@ content.
       <pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Facilitating Model Driven Automated Cell Allocation In Fifth Generation (5G) Or Other Advanced Network</title>
-      <link>https://ceandrade.github.io/patent/2020-us10834608-facilitating-model-driven-automated-cell-allocation-in-fifth-generation-5g-or-other-advanced-networks/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/patent/2020-us10834608-facilitating-model-driven-automated-cell-allocation-in-fifth-generation-5g-or-other-advanced-networks/</guid>
       <description></description>
     </item>
     
