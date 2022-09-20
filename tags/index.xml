@@ -25,9 +25,18 @@ content.
     </item>
     
     <item>
+      <title>5G</title>
+      <link>https://ceandrade.github.io/tags/5g/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/5g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Biased Random-Key Genetic Algorithm</title>
       <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</guid>
       <description></description>
@@ -466,6 +475,15 @@ content.
     </item>
     
     <item>
+      <title>Mathematical Models</title>
+      <link>https://ceandrade.github.io/tags/mathematical-models/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/mathematical-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Metaheuristics</title>
       <link>https://ceandrade.github.io/tags/metaheuristics/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
@@ -480,6 +498,15 @@ content.
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/mixed-integer-programming-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Optimization</title>
+      <link>https://ceandrade.github.io/tags/multi-objective-optimization/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/multi-objective-optimization/</guid>
       <description></description>
     </item>
     
@@ -531,7 +558,7 @@ content.
     <item>
       <title>Physical Cell Identity</title>
       <link>https://ceandrade.github.io/tags/physical-cell-identity/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/physical-cell-identity/</guid>
       <description></description>
@@ -561,6 +588,15 @@ content.
       <pubDate>Tue, 03 Nov 2020 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/rsi-assignment-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Root Sequence Index</title>
+      <link>https://ceandrade.github.io/tags/root-sequence-index/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/root-sequence-index/</guid>
       <description></description>
     </item>
     
