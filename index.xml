@@ -10,8 +10,26 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conflict-free change deployment - Continuation</title>
+      <link>https://ceandrade.github.io/patent/2022-us11463307-conflict-free-change-deployment-continuation/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/2022-us11463307-conflict-free-change-deployment-continuation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact and heuristic approaches for the root sequence index allocation problem</title>
+      <link>https://ceandrade.github.io/publication/londe-2022-rsi/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2022-rsi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Physical Cell Identity Assignment Problem: a Practical Optimization Approach</title>
@@ -64,24 +82,6 @@ content.
       <pubDate>Mon, 22 Nov 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/patent/andrade2021-facilitating-assignment-of-physical-cell-identifier-under-technological-and-operational-constraints/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exact and heuristic approaches for the root sequence index allocation problem</title>
-      <link>https://ceandrade.github.io/publication/londe-2022-rsi/</link>
-      <pubDate>Sun, 19 Sep 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/publication/londe-2022-rsi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conflict-free change deployment - Continuation</title>
-      <link>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment-continuation/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/patent/2021-us10958517-conflict-free-change-deployment-continuation/</guid>
       <description></description>
     </item>
     
