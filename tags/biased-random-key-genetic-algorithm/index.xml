@@ -1,40 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biased random-key genetic algorithm on &lt;cea /&gt;</title>
+    <title>Biased Random-Key Genetic Algorithm on &lt;cea /&gt;</title>
     <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</link>
-    <description>Recent content in Biased random-key genetic algorithm on &lt;cea /&gt;</description>
+    <description>Recent content in Biased Random-Key Genetic Algorithm on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 19 Sep 2022 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Minimizing flowtime in a flowshop scheduling problem with a biased random-key genetic algorithm</title>
-      <link>https://ceandrade.github.io/publication/andrade-2019-pfsp-brkga-shaking/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      <title>Exact and heuristic approaches for the root sequence index allocation problem</title>
+      <link>https://ceandrade.github.io/publication/londe-2022-rsi/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/andrade-2019-pfsp-brkga-shaking/</guid>
+      <guid>https://ceandrade.github.io/publication/londe-2022-rsi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scheduling software updates for connected cars with limited availability</title>
-      <link>https://ceandrade.github.io/publication/andrade-2019-scheduling-fota/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 -0400</pubDate>
+      <title>The p-next center problem with capacity and coverage radius constraints: model and heuristics</title>
+      <link>https://ceandrade.github.io/publication/londe-2022-pnext-center-capacity/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/andrade-2019-scheduling-fota/</guid>
+      <guid>https://ceandrade.github.io/publication/londe-2022-pnext-center-capacity/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>relation clustering</title>
+    <item>
+      <title>An evolutionary approach for the p-next center problem</title>
+      <link>https://ceandrade.github.io/publication/londe-2021-evolutionary-algs-for-p-next/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2021-evolutionary-algs-for-p-next/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary algorithms for overlapping correlation clustering</title>
       <link>https://ceandrade.github.io/publication/andrade-2014-evol-alg-overlapping-correlation-clustering/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
