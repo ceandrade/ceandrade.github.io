@@ -10,10 +10,19 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/exact-models/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The RSI Allocation Problem: exact and heuristic methods</title>
+      <link>https://ceandrade.github.io/publication/londe-2022-rsi-exact-heuristic/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2022-rsi-exact-heuristic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Some extensions of biased random-key genetic algorithms</title>
