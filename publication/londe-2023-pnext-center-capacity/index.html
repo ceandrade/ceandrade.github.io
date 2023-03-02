@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Principal Inventive Scientist">
+  <meta name="description" content="This paper introduces a novel problem of facility location, called the p-next center problem with capacity and coverage radius constraints. We formulate a mixed integer programming model for this problem, and compare the results found by CPLEX with three Biased Random-Key Genetic Algorithms variants. We also propose several instances for this problem, based on existing ones for the p-next center problem.  Additionally, we analyze the effect of the radius and demand on instance difficulty. We also observe the performance gains with a relaxed capacity and demand constraint, i.e., permitting demand to be unmet by the model. Results point that the BRKGA variants had significantly better performance than CPLEX, and similar performances among themselves. Of those, BRKGA-FI was shown to have slightly better results than the other variants.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ceandrade.github.io/authors/luciana-s.-pessoa/">
+  <link rel="alternate" hreflang="en-us" href="https://ceandrade.github.io/publication/londe-2023-pnext-center-capacity/">
 
   
 
@@ -114,15 +114,15 @@
   
 
   
-  <link rel="alternate" href="https://ceandrade.github.io/authors/luciana-s.-pessoa/index.xml" type="application/rss+xml" title="&lt;cea /&gt;">
-  <link rel="feed" href="https://ceandrade.github.io/authors/luciana-s.-pessoa/index.xml" type="application/rss+xml" title="&lt;cea /&gt;">
+  <link rel="alternate" href="https://ceandrade.github.io/index.xml" type="application/rss+xml" title="&lt;cea /&gt;">
+  <link rel="feed" href="https://ceandrade.github.io/index.xml" type="application/rss+xml" title="&lt;cea /&gt;">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ceandrade.github.io/authors/luciana-s.-pessoa/">
+  <link rel="canonical" href="https://ceandrade.github.io/publication/londe-2023-pnext-center-capacity/">
 
   
   
@@ -134,19 +134,21 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="&lt;cea /&gt;">
-  <meta property="og:url" content="https://ceandrade.github.io/authors/luciana-s.-pessoa/">
-  <meta property="og:title" content="Luciana S. Pessoa | &lt;cea /&gt;">
-  <meta property="og:description" content="Principal Inventive Scientist"><meta property="og:image" content="https://ceandrade.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://ceandrade.github.io/publication/londe-2023-pnext-center-capacity/">
+  <meta property="og:title" content="The p-next center problem with capacity and coverage radius constraints: model and heuristics | &lt;cea /&gt;">
+  <meta property="og:description" content="This paper introduces a novel problem of facility location, called the p-next center problem with capacity and coverage radius constraints. We formulate a mixed integer programming model for this problem, and compare the results found by CPLEX with three Biased Random-Key Genetic Algorithms variants. We also propose several instances for this problem, based on existing ones for the p-next center problem.  Additionally, we analyze the effect of the radius and demand on instance difficulty. We also observe the performance gains with a relaxed capacity and demand constraint, i.e., permitting demand to be unmet by the model. Results point that the BRKGA variants had significantly better performance than CPLEX, and similar performances among themselves. Of those, BRKGA-FI was shown to have slightly better results than the other variants."><meta property="og:image" content="https://ceandrade.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2023-02-23T00:00:00-05:00">
+  <meta property="article:published_time" content="2023-02-23T00:00:00-05:00">
+  
+  <meta property="article:modified_time" content="2023-03-02T15:51:03-05:00">
   
 
   
 
   
 
-  <title>Luciana S. Pessoa | &lt;cea /&gt;</title>
+  <title>The p-next center problem with capacity and coverage radius constraints: model and heuristics | &lt;cea /&gt;</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -340,70 +342,365 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  
+  
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Luciana S. Pessoa</h1>
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">The p-next center problem with capacity and coverage radius constraints: model and heuristics</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2023-02-23 00:00:00 -0500 EST" itemprop="datePublished">
+<meta content="2023-03-02 15:51:03 -0500 EST" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div id="pub-authors">
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+      
+        
+      
+
+      <a class="pub-authors" style="" href="/authors/mariana-a.-londe/">Mariana A. Londe</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+        
+      
+
+      
+      
+      
+        
+      
+
+      <a class="pub-authors" style="font-weight: bold;" href="/authors/carlos-e.-andrade/">Carlos E. Andrade</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+      
+        
+      
+
+      <a class="pub-authors" style="" href="/authors/luciana-s.-pessoa/">Luciana S. Pessoa</a></span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>February 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=The%20p-next%20center%20problem%20with%20capacity%20and%20coverage%20radius%20constraints%3a%20model%20and%20heuristics&amp;url=https%3a%2f%2fceandrade.github.io%2fpublication%2flonde-2023-pnext-center-capacity%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fceandrade.github.io%2fpublication%2flonde-2023-pnext-center-capacity%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fceandrade.github.io%2fpublication%2flonde-2023-pnext-center-capacity%2f&amp;title=The%20p-next%20center%20problem%20with%20capacity%20and%20coverage%20radius%20constraints%3a%20model%20and%20heuristics"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fceandrade.github.io%2fpublication%2flonde-2023-pnext-center-capacity%2f&amp;title=The%20p-next%20center%20problem%20with%20capacity%20and%20coverage%20radius%20constraints%3a%20model%20and%20heuristics"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=The%20p-next%20center%20problem%20with%20capacity%20and%20coverage%20radius%20constraints%3a%20model%20and%20heuristics&amp;body=https%3a%2f%2fceandrade.github.io%2fpublication%2flonde-2023-pnext-center-capacity%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
 </div>
 
 
-<section id="about" class="pt-5">
-  <div class="container">
-    
-    
-    
-    
+  
+
+</div>
 
     
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/londe-2023-pnext-center-capacity/">The p-next center problem with capacity and coverage radius constraints: model and heuristics</a>
-        </li>
-        
-        <li>
-          <a href="/publication/londe-2022-rsi-exact-heuristic/">The RSI Allocation Problem: exact and heuristic methods</a>
-        </li>
-        
-        <li>
-          <a href="/publication/londe-2022-rsi/">Exact and heuristic approaches for the root sequence index allocation problem</a>
-        </li>
-        
-        <li>
-          <a href="/publication/andrade-2022-pci-mo/">The Physical Cell Identity Assignment Problem: a Practical Optimization Approach</a>
-        </li>
-        
-        <li>
-          <a href="/publication/londe-2022-pnext-center-capacity/">The p-next center problem with capacity and coverage radius constraints: model and heuristics</a>
-        </li>
-        
-        <li>
-          <a href="/publication/londe-2021-evolutionary-algs-for-p-next/">An evolutionary approach for the p-next center problem</a>
-        </li>
-        
-        <li>
-          <a href="/publication/londe-2020-exact-models-for-rsi/">Some extensions of biased random-key genetic algorithms</a>
-        </li>
-        
-        <li>
-          <a href="/publication/andrade-2019-pfsp-brkga-shaking/">Minimizing flowtime in a flowshop scheduling problem with a biased random-key genetic algorithm</a>
-        </li>
-        
-        <li>
-          <a href="/publication/pessoa-2018-heuristics-flowshop-stepwise/">Heuristics for a flowshop scheduling problem with stepwise job objective function</a>
-        </li>
-        
-      </ul>
-    </div>
-  </div>
+
+
+
+
+
+
+
   
-</section>
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/londe-2023-pnext-center-capacity/londe-2023-pnext-center-capacity.bib">
+  <i class="far fa-file-alt" aria-hidden="true"></i>
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1007/978-3-031-26504-4_24" target="_blank" rel="noopener">
+  <i class="ai ai-doi" aria-hidden="true"></i>
+  DOI
+</a>
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">This paper introduces a novel problem of facility location, called the p-next center problem with capacity and coverage radius constraints. We formulate a mixed integer programming model for this problem, and compare the results found by CPLEX with three Biased Random-Key Genetic Algorithms variants. We also propose several instances for this problem, based on existing ones for the p-next center problem.  Additionally, we analyze the effect of the radius and demand on instance difficulty. We also observe the performance gains with a relaxed capacity and demand constraint, i.e., permitting demand to be unmet by the model. Results point that the BRKGA variants had significantly better performance than CPLEX, and similar performances among themselves. Of those, BRKGA-FI was shown to have slightly better results than the other variants.</p>
+    
+
+    <div class="row">
+      <div class="col-md-7">
+        
+        <div class="row">
+          
+          <div class="col-md-12">
+            <div class="row">
+              <div class="col-12 col-md-3 pub-row-heading">Type</div>
+              <div class="col-12 col-md-9">
+                
+
+                
+                
+                <a href="/publication/#2">
+                  Journal article
+                </a>
+                
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        <div class="d-md-none space-below"></div>
+        
+
+        
+        <div class="row">
+          
+          <div class="col-md-12">
+            <div class="row">
+              <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+              <div class="col-12 col-md-9"><a href="https://www.springer.com/series/558"><em>Lecture Notes in Computer Science</em></a></div>
+            </div>
+          </div>
+          
+        </div>
+        
+        
+      </div>
+
+      
+      <div class="col-md-5">
+          <a href="https://www.scimagojr.com/journalsearch.php?q=25674&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank">
+            <img border="0" src="https://www.scimagojr.com/journal_img.php?id=25674" alt="SCImago Journal &amp; Country Rank"/>
+          </a>
+        </div>
+      
+    </div>
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/facility-location/">Facility location</a>
+  
+  <a class="badge badge-light" href="/tags/biased-random-key-genetic-algorithm/">Biased Random-Key Genetic Algorithm</a>
+  
+  <a class="badge badge-light" href="/tags/metaheuristics/">Metaheuristics</a>
+  
+</div>
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
 
 
 <div class="container">
