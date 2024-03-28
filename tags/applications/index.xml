@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mauricio G.C. Resende on &lt;cea /&gt;</title>
-    <link>https://ceandrade.github.io/authors/mauricio-g.c.-resende/</link>
-    <description>Recent content in Mauricio G.C. Resende on &lt;cea /&gt;</description>
+    <title>Applications on &lt;cea /&gt;</title>
+    <link>https://ceandrade.github.io/tags/applications/</link>
+    <description>Recent content in Applications on &lt;cea /&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
@@ -12,7 +12,7 @@ content.
 </copyright>
     <lastBuildDate>Tue, 26 Mar 2024 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://ceandrade.github.io/authors/mauricio-g.c.-resende/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ceandrade.github.io/tags/applications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@ content.
       <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/publication/londe-2024-brkga-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications</title>
-      <link>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</guid>
       <description></description>
     </item>
     
