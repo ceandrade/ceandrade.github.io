@@ -34,15 +34,6 @@ content.
     </item>
     
     <item>
-      <title>Applications</title>
-      <link>https://ceandrade.github.io/tags/applications/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/tags/applications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Biased Random-Key Genetic Algorithm</title>
       <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 -0500</pubDate>
@@ -72,7 +63,7 @@ content.
     <item>
       <title>Biased random-key genetic algorithms</title>
       <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</guid>
       <description></description>
@@ -84,6 +75,15 @@ content.
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/biased-randomkey-genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bibliometric analysis</title>
+      <link>https://ceandrade.github.io/tags/bibliometric-analysis/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/bibliometric-analysis/</guid>
       <description></description>
     </item>
     
@@ -466,15 +466,6 @@ content.
     </item>
     
     <item>
-      <title>Literature review</title>
-      <link>https://ceandrade.github.io/tags/literature-review/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/tags/literature-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Local search</title>
       <link>https://ceandrade.github.io/tags/local-search/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
@@ -522,7 +513,7 @@ content.
     <item>
       <title>Metaheuristics</title>
       <link>https://ceandrade.github.io/tags/metaheuristics/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/metaheuristics/</guid>
       <description></description>
@@ -687,6 +678,15 @@ content.
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/small-cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic literature review</title>
+      <link>https://ceandrade.github.io/tags/systematic-literature-review/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/systematic-literature-review/</guid>
       <description></description>
     </item>
     
