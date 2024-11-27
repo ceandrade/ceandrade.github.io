@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo F. Dias on &lt;cea /&gt;</title>
+    <link>https://ceandrade.github.io/authors/rodrigo-f.-dias/</link>
+    <description>Recent content in Rodrigo F. Dias on &lt;cea /&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This page is not a publication of AT&amp;T, and AT&amp;T have neither edited nor
+examined the content. The author of the page is solely responsable for the
+content.
+</copyright>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ceandrade.github.io/authors/rodrigo-f.-dias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparative Study of Genetic Algorithms for the School Timetabling Problem</title>
+      <link>https://ceandrade.github.io/publication/dias-2024-genetic-algorithms-for-school-timetabling/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/dias-2024-genetic-algorithms-for-school-timetabling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

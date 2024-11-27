@@ -43,6 +43,15 @@ content.
     </item>
     
     <item>
+      <title>BRKGA</title>
+      <link>https://ceandrade.github.io/tags/brkga/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/brkga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Biased Random-Key Genetic Algorithm</title>
       <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 -0500</pubDate>
@@ -333,7 +342,7 @@ content.
     <item>
       <title>Genetic Algorithms</title>
       <link>https://ceandrade.github.io/tags/genetic-algorithms/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/genetic-algorithms/</guid>
       <description></description>
@@ -678,6 +687,15 @@ content.
       <pubDate>Mon, 21 Jun 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/scheduling-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School Scheduling Problem</title>
+      <link>https://ceandrade.github.io/tags/school-scheduling-problem/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/school-scheduling-problem/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://ceandrade.github.io/publication/dias-2024-genetic-algorithms-for-school-timetabling/</loc>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ceandrade.github.io/publication/londe-2025-early-years-of-biased-random-key-genetic-algorithms/</loc>
       <lastmod>2024-10-30T16:36:45-04:00</lastmod>
     </url>
@@ -352,7 +358,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/1/</loc>
-      <lastmod>2022-10-27T14:38:59-04:00</lastmod>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -408,7 +414,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/</loc>
-      <lastmod>2024-10-30T16:36:45-04:00</lastmod>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -464,6 +470,13 @@
     
       <loc>https://ceandrade.github.io/authors/</loc>
       <lastmod>2024-02-15T22:40:16-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/brkga/</loc>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -554,7 +567,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/authors/carlos-e.-andrade/</loc>
-      <lastmod>2024-10-30T16:36:45-04:00</lastmod>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -777,7 +790,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/tags/genetic-algorithms/</loc>
-      <lastmod>2020-11-04T11:16:25-05:00</lastmod>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1195,7 +1208,7 @@
     <url>
     
       <loc>https://ceandrade.github.io/publication_types/</loc>
-      <lastmod>2022-10-27T14:38:59-04:00</lastmod>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1216,6 +1229,13 @@
     
       <loc>https://ceandrade.github.io/tags/rsi-assignment-problem/</loc>
       <lastmod>2022-10-27T14:38:59-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/authors/rafael-m.d.-frinhani/</loc>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1250,6 +1270,13 @@
     
       <loc>https://ceandrade.github.io/authors/robert-riding/</loc>
       <lastmod>2022-10-10T22:21:59-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/authors/rodrigo-f.-dias/</loc>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1292,6 +1319,13 @@
     
       <loc>https://ceandrade.github.io/tags/scheduling-problems/</loc>
       <lastmod>2021-08-16T15:11:06-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ceandrade.github.io/tags/school-scheduling-problem/</loc>
+      <lastmod>2024-11-26T23:18:20-05:00</lastmod>
       <priority>0</priority>
     </url>
   
