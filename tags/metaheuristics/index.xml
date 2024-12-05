@@ -10,10 +10,28 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/tags/metaheuristics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Early years of Biased Random-Key Genetic Algorithms: A systematic review</title>
+      <link>https://ceandrade.github.io/publication/londe-2024-early-years-of-biased-random-key-genetic-algorithms/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2024-early-years-of-biased-random-key-genetic-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased random-key genetic algorithms: A review</title>
+      <link>https://ceandrade.github.io/publication/londe-2025-brkga-review/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2025-brkga-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The p-next center problem with capacity and coverage radius constraints: model and heuristics</title>

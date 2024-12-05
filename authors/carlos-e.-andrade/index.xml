@@ -10,10 +10,82 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/carlos-e.-andrade/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Early years of Biased Random-Key Genetic Algorithms: A systematic review</title>
+      <link>https://ceandrade.github.io/publication/londe-2024-early-years-of-biased-random-key-genetic-algorithms/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2024-early-years-of-biased-random-key-genetic-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Study of Genetic Algorithms for the School Timetabling Problem</title>
+      <link>https://ceandrade.github.io/publication/dias-2024-genetic-algorithms-for-school-timetabling/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/dias-2024-genetic-algorithms-for-school-timetabling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased random-key genetic algorithms: A review</title>
+      <link>https://ceandrade.github.io/publication/londe-2025-brkga-review/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2025-brkga-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatuses and methods for identifying infrastructure through machine learning (continuation)</title>
+      <link>https://ceandrade.github.io/patent/2024-us11935097-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning-continuation/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/2024-us11935097-apparatuses-and-methods-for-identifying-infrastructure-through-machine-learning-continuation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Re)Assigning Of Nodes On Security And Priority Network</title>
+      <link>https://ceandrade.github.io/patent/andrade2023-reassigning-of-nodes-on-security-and-priority-network/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/andrade2023-reassigning-of-nodes-on-security-and-priority-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change Deployment System</title>
+      <link>https://ceandrade.github.io/patent/2024-us11876672-change-deployment-system/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/2024-us11876672-change-deployment-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitating assignment of root sequence indexes while minimizing network changes</title>
+      <link>https://ceandrade.github.io/patent/2023-us11832294-facilitating-assignment-of-root-sequence-indexes-while-minimizing-network-changes/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/2023-us11832294-facilitating-assignment-of-root-sequence-indexes-while-minimizing-network-changes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatuses and Methods for Facilitating Solutions to Optimization Problems via Modeling through Natural Language Processing and Machine Learning</title>
+      <link>https://ceandrade.github.io/patent/andrade2023-apparatuses-and-methods-for-facilitating-solutions-to-optimization-problems-via-modeling-through-natural-language-processing-and-machine-learning/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/patent/andrade2023-apparatuses-and-methods-for-facilitating-solutions-to-optimization-problems-via-modeling-through-natural-language-processing-and-machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The p-next center problem with capacity and coverage radius constraints: model and heuristics</title>
@@ -62,10 +134,10 @@ content.
     
     <item>
       <title>The Physical Cell Identity Assignment Problem: a Practical Optimization Approach</title>
-      <link>https://ceandrade.github.io/publication/andrade-2022-pci-mo/</link>
+      <link>https://ceandrade.github.io/publication/andrade-2024-pci-mo/</link>
       <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://ceandrade.github.io/publication/andrade-2022-pci-mo/</guid>
+      <guid>https://ceandrade.github.io/publication/andrade-2024-pci-mo/</guid>
       <description></description>
     </item>
     
@@ -102,15 +174,6 @@ content.
       <pubDate>Tue, 14 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/patent/2021-us11202210-facilitating-model-driven-automated-cell-allocation-in-fifth-generation-5g-or-other-advanced-networks-continuation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Facilitating assignment of root sequence indexes while minimizing network changes</title>
-      <link>https://ceandrade.github.io/patent/andrade2021-facilitating-assignment-of-root-sequence-indexes-while-minimizing-network-changes/</link>
-      <pubDate>Thu, 02 Dec 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/patent/andrade2021-facilitating-assignment-of-root-sequence-indexes-while-minimizing-network-changes/</guid>
       <description></description>
     </item>
     
@@ -165,15 +228,6 @@ content.
       <pubDate>Mon, 17 May 2021 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/patent/chen2021-managing-changes-to-interdependent-network-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Change Deployment System</title>
-      <link>https://ceandrade.github.io/patent/andrade2021-change-deployment-system/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/patent/andrade2021-change-deployment-system/</guid>
       <description></description>
     </item>
     
