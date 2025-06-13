@@ -25,6 +25,15 @@ content.
     </item>
     
     <item>
+      <title>Biased random-key genetic algorithms: A review</title>
+      <link>https://ceandrade.github.io/publication/londe-2025-brkga-review/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 -0500</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2025-brkga-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comparative Study of Genetic Algorithms for the School Timetabling Problem</title>
       <link>https://ceandrade.github.io/publication/dias-2024-genetic-algorithms-for-school-timetabling/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 -0500</pubDate>
@@ -39,15 +48,6 @@ content.
       <pubDate>Sun, 20 Oct 2024 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/publication/londe-2024-early-years-of-biased-random-key-genetic-algorithms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biased random-key genetic algorithms: A review</title>
-      <link>https://ceandrade.github.io/publication/londe-2025-brkga-review/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/publication/londe-2025-brkga-review/</guid>
       <description></description>
     </item>
     
