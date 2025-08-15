@@ -10,10 +10,19 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Fri, 23 May 2025 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ceandrade.github.io/authors/luciana-s.-pessoa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random-Key Genetic Algorithms: Principles and Applications</title>
+      <link>https://ceandrade.github.io/publication/londe-2025-brkga-principles-and-applications/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2025-brkga-principles-and-applications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A multi-stage approach for Root Sequence Index allocation</title>

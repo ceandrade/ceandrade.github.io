@@ -10,8 +10,17 @@
 examined the content. The author of the page is solely responsable for the
 content.
 </copyright>
-    <lastBuildDate>Fri, 23 May 2025 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Random-Key Genetic Algorithms: Principles and Applications</title>
+      <link>https://ceandrade.github.io/publication/londe-2025-brkga-principles-and-applications/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/publication/londe-2025-brkga-principles-and-applications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A multi-stage approach for Root Sequence Index allocation</title>
@@ -136,15 +145,6 @@ content.
       <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/publication/londe-2022-rsi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Physical Cell Identity Assignment Problem: a Practical Optimization Approach</title>
-      <link>https://ceandrade.github.io/publication/andrade-2024-pci-mo/</link>
-      <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://ceandrade.github.io/publication/andrade-2024-pci-mo/</guid>
       <description></description>
     </item>
     

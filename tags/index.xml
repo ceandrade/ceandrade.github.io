@@ -72,7 +72,7 @@ content.
     <item>
       <title>Biased random-key genetic algorithm</title>
       <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</guid>
       <description></description>
@@ -351,7 +351,7 @@ content.
     <item>
       <title>Genetic algorithm</title>
       <link>https://ceandrade.github.io/tags/genetic-algorithm/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/genetic-algorithm/</guid>
       <description></description>
@@ -538,6 +538,15 @@ content.
     </item>
     
     <item>
+      <title>Metaheuristic</title>
+      <link>https://ceandrade.github.io/tags/metaheuristic/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/metaheuristic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Metaheuristics</title>
       <link>https://ceandrade.github.io/tags/metaheuristics/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 -0500</pubDate>
@@ -612,9 +621,18 @@ content.
     <item>
       <title>Optimization</title>
       <link>https://ceandrade.github.io/tags/optimization/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter tuning</title>
+      <link>https://ceandrade.github.io/tags/parameter-tuning/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/parameter-tuning/</guid>
       <description></description>
     </item>
     
@@ -660,6 +678,24 @@ content.
       <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/rsi-assignment-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random keys</title>
+      <link>https://ceandrade.github.io/tags/random-keys/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/random-keys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random-key genetic algorithm</title>
+      <link>https://ceandrade.github.io/tags/random-key-genetic-algorithm/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/random-key-genetic-algorithm/</guid>
       <description></description>
     </item>
     
