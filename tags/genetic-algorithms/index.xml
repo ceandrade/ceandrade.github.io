@@ -25,34 +25,4 @@ content.
     </item>
     
   </channel>
-</rss>   </item>
-    
-    <item>
-      <title>The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications</title>
-      <link>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/publication/andrade-2021-brkga-mp-ipr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Some extensions of biased random-key genetic algorithms</title>
-      <link>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/publication/lucena-2014-extensions-brkga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary algorithm for the $k$-interconnected multi-depot multi-traveling salesmen problem</title>
-      <link>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
-      
-      <guid>https://ceandrade.github.io/publication/andrade-2013-evolutionary-algorithm-k-imdmtsp/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
 </rss>
