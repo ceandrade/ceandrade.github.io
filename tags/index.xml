@@ -36,7 +36,7 @@ content.
     <item>
       <title>Applications</title>
       <link>https://ceandrade.github.io/tags/applications/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/applications/</guid>
       <description></description>
@@ -63,7 +63,7 @@ content.
     <item>
       <title>Biased Random-Key Genetic Algorithms</title>
       <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 23 May 2025 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</guid>
       <description></description>
@@ -72,7 +72,7 @@ content.
     <item>
       <title>Biased random-key genetic algorithm</title>
       <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithm/</guid>
       <description></description>
@@ -81,7 +81,7 @@ content.
     <item>
       <title>Biased random-key genetic algorithms</title>
       <link>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/biased-random-key-genetic-algorithms/</guid>
       <description></description>
@@ -99,7 +99,7 @@ content.
     <item>
       <title>Bibliometric analysis</title>
       <link>https://ceandrade.github.io/tags/bibliometric-analysis/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/bibliometric-analysis/</guid>
       <description></description>
@@ -144,7 +144,7 @@ content.
     <item>
       <title>Capacity management</title>
       <link>https://ceandrade.github.io/tags/capacity-management/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/capacity-management/</guid>
       <description></description>
@@ -351,7 +351,7 @@ content.
     <item>
       <title>Genetic algorithm</title>
       <link>https://ceandrade.github.io/tags/genetic-algorithm/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/genetic-algorithm/</guid>
       <description></description>
@@ -486,7 +486,7 @@ content.
     <item>
       <title>Literature review</title>
       <link>https://ceandrade.github.io/tags/literature-review/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/literature-review/</guid>
       <description></description>
@@ -513,7 +513,7 @@ content.
     <item>
       <title>Machine Learning </title>
       <link>https://ceandrade.github.io/tags/machine-learning-/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/machine-learning-/</guid>
       <description></description>
@@ -538,9 +538,18 @@ content.
     </item>
     
     <item>
+      <title>Metaheuristic</title>
+      <link>https://ceandrade.github.io/tags/metaheuristic/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/metaheuristic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Metaheuristics</title>
       <link>https://ceandrade.github.io/tags/metaheuristics/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/metaheuristics/</guid>
       <description></description>
@@ -561,6 +570,15 @@ content.
       <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/multi-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-stage optimization</title>
+      <link>https://ceandrade.github.io/tags/multi-stage-optimization/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/multi-stage-optimization/</guid>
       <description></description>
     </item>
     
@@ -603,9 +621,18 @@ content.
     <item>
       <title>Optimization</title>
       <link>https://ceandrade.github.io/tags/optimization/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter tuning</title>
+      <link>https://ceandrade.github.io/tags/parameter-tuning/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/parameter-tuning/</guid>
       <description></description>
     </item>
     
@@ -655,9 +682,27 @@ content.
     </item>
     
     <item>
+      <title>Random keys</title>
+      <link>https://ceandrade.github.io/tags/random-keys/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/random-keys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random-key genetic algorithm</title>
+      <link>https://ceandrade.github.io/tags/random-key-genetic-algorithm/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://ceandrade.github.io/tags/random-key-genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Root Sequence Index</title>
       <link>https://ceandrade.github.io/tags/root-sequence-index/</link>
-      <pubDate>Mon, 19 Sep 2022 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 23 May 2025 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/root-sequence-index/</guid>
       <description></description>
@@ -702,7 +747,7 @@ content.
     <item>
       <title>Security networks</title>
       <link>https://ceandrade.github.io/tags/security-networks/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 -0500</pubDate>
       
       <guid>https://ceandrade.github.io/tags/security-networks/</guid>
       <description></description>
@@ -720,7 +765,7 @@ content.
     <item>
       <title>Systematic literature review</title>
       <link>https://ceandrade.github.io/tags/systematic-literature-review/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 -0400</pubDate>
       
       <guid>https://ceandrade.github.io/tags/systematic-literature-review/</guid>
       <description></description>
